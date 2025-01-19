@@ -7,7 +7,8 @@ layout: post
 mermaid: true
 ---
 
-toc: true
+* TOC
+{:toc}
 
 ---
 
