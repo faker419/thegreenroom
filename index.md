@@ -7,13 +7,13 @@ layout: post
 mermaid: true
 ---
 
-## The Green Room
-
 **Name:** Issa Fares 
 **Date:** `2024-19-01`  
 **Contact:** faresissa22@gmail.com
 
-
+<p align="center">
+  <img src="figures\bg.png"  width="auto">
+</p>
 
 # 1.0 Introduction
 
