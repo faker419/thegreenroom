@@ -15,7 +15,7 @@ mermaid: true
 
 ---
 
-toc: true
+toc
 
 ---
 
@@ -278,7 +278,7 @@ system is working correctly.
 
 <p align="center">
   <figcaption >Figure 3: Diagram of the nutrient delivery system of the modules </figcaption>
-  <img src="figures\figure_3.JPG" alt="Alt text" width="auto">
+  <img src="figures\figure_3.JPG"  width="auto">
 </p>
 
 After irrigating the plants, the nutrient solution is pumped through UV sterilization treatment and 
@@ -342,13 +342,13 @@ DYNA C9 model or MITRA X Flex which is more than twice as efficient, thus fewer 
 
 <p align="center">
   <figcaption >Figure 4: MITRA X Flex Model </figcaption>
-  <img src="figures\figure_4.JPG" alt="Alt text" width="auto">
+  <img src="figures\figure_4.JPG"  width="auto">
 </p>
 
 
 <p align="center">
   <figcaption >Figure 5: spectrum for helioSPEC MITRA X R80F Flex  </figcaption>
-  <img src="figures\figure_5.JPG" alt="Alt text" width="auto">
+  <img src="figures\figure_5.JPG"  width="auto">
 </p>
 
 The lamps should be placed at 0,25 m from the top of the plant canopy.  For the first section of the growth level, where the plants are in the early development stage (day 0-10), the lighting system should provide 200 Î¼mol m-2 s-1 of Photosynthetically Active 
@@ -440,7 +440,7 @@ for the HVAC system is 160 kWh per year, with a peak day of 1.10 kWh with a COP 
 
 <p align="center">
   <figcaption >Figure 6: psychrometric chart </figcaption>
-  <img src="figures\figure_6.JPG" alt="Alt text" width="auto">
+  <img src="figures\figure_6.JPG"  width="auto">
 </p>
 
 
@@ -481,7 +481,7 @@ inside each cultivation module.
 
 <p align="center">
   <figcaption >Figure 7: Priva E-Measuring box </figcaption>
-  <img src="figures\figure_7.JPG" alt="Alt text" width="auto">
+  <img src="figures\figure_7.png"  width="auto">
 </p>
 
 
