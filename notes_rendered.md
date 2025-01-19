@@ -11,8 +11,7 @@
 
 ## Table of Contents
 
-{% include toc.html html=content %}
-
+ds
 ---
 
 # 2.0 Architecture Layout
