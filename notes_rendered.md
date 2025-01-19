@@ -612,19 +612,19 @@ sumption of 37.5 kW.  This brings the total power consumption for the  productio
 
 # 8 Air Management & Thermal Control System 
 
-The air management and thermal system are required to maintain the optimal conditions for crop 
-growth.  Its design can impact the cost of a VF due to its effects on energy consumption.  It relates to 
-several other subsystems, e.g., nutrient delivery and illumination, water and heat recovery.  A de
-tailed description of the energy consumption of the system and estimations of the flow rate are giv
-en in this section.  The goals of the design are to optimize the energy balance between energy gener
-ators and energy users to ensure optimal growing conditions for each crop. 
-In a normal Heat Ventilation and Air-Conditioning (HVAC) system, the air is provided by air handling 
-equipment which receives air from outside the building, and air recirculated from the inner space. 
-The outside and return air are mixed in the mixing chamber, filtered, treated, and delivered to inner 
-areas through metal ducts. These metal ducts discharge the air into the inner space, usually through 
-supply air diffusers located at the end of the ducts.  In VF 2.0, the air handling equipment located in 
-the core of each module is a heat pump, which cold buffer for storage can transport the thermal 
-energy removed from the growing compartment to a hot or (see Figure 8-1).  This will allow for the 
-reuse of energy obtained from the removed heat from the plant compartments to be used as heating 
-for the ground floor or core areas. The buffer also contains the energy from the cooling lines of the 
-LED cooling system.
+$$
+\dot{V} = \frac{E}{x_{\text{in}} - x_{\text{out}}} \times \frac{1}{\rho}
+$$
+
+where  is the required ventilation rate in m3/m2/h,  is the evapotranspiration rate of the crop 
+in g/m2/h,  is the absolute air humidity inside the compartment in g/kg,  is the absolute air 
+humidity of the air at the outlet of the air management system in g/kg and  is the density of the air 
+in kg/m3.  It is assumed that 100 % of the water vapor in the treated air is recovered.  The total ener
+gy removed from the ventilated air is obtained from the following equation: 
+Where  is the energy removed in kW/m2,  is the evaporation heat of water at 0°C in kJ/kg, 
+ is the enthalpy inside the compartment in kJ/kg, and  is the enthalpy of the air from the 
+outlet of the air management system in kJ/kg.
+
+$$
+E = \frac{\dot{V}.\rho}{3600} \times [\times \left( h_{\text{in}} - h_{\text{out}} \plues H . \right) \left x_{\text{in}} - x_{\text{out}} \right]
+$$
