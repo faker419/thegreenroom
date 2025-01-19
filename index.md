@@ -14,6 +14,7 @@ toc: true
 # 2.0 Architecture Layout
 
 ## 2.1  Modular Design
+-------------
 
 The baseline design resulted in 5 warehouses that each measures 75 m by 35 m . 4 of which are cultivation modules, with a singular central convergance warehouse acting as the hub. each cultivation module is divided into two general areas: the core and the 
 production area separated by decontamination airlock.
@@ -21,6 +22,7 @@ Each of the modules measures 6 m floor-to-ceiling. The
 overall footprint of the projects is 13,125 mÃ‚Â².
 
 ## 2.2 Central Hub Description 
+-------------
 
 The central hub area comprises of the main entrance, a room for staff, the fresh water unit and 
 storage tank, the main control room for all the modules and the main decontamination airlock. The 
