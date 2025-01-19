@@ -1,0 +1,23 @@
+remote_theme: sighingnow/jekyll-gitbook
+
+title: "Your Site Title"
+description: "A Jekyll-based GitBook theme for documentation"
+author: "Your Name"
+baseurl: "" # Leave blank for root, or add "/repo-name" if hosted in a subdirectory
+url: "https://faker419.github.io" # Replace with your GitHub Pages URL
+
+markdown: kramdown
+theme: jekyll-gitbook
+
+plugins:
+  - jekyll-remote-theme # Required for remote_theme
+  - jekyll-toc          # Table of contents plugin (optional)
+  - jekyll-seo-tag      # SEO optimization (optional)
+
+# Optional settings for the GitBook theme
+gitbook:
+  fixed_sidebar: true
+  toc_max_depth: 2
+  search: true
+  search_placeholder: "Search..."
+  mermaid: false
