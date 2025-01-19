@@ -15,7 +15,7 @@ mermaid: true
 
 ---
 
-toc: true
+{% include toc.html html=content %}
 
 ---
 
