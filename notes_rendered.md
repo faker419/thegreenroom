@@ -626,5 +626,6 @@ Where  is the energy removed in kW/m2,  is the evaporation heat of water at 0°C
 outlet of the air management system in kJ/kg.
 
 $$
-E = \frac{\dot{V} \times \rho}{3600} \times \left( \left( h_{\text{in}} - h_{\text{out}} \right) \times  H . \left( x_{\text{in}} - x_{\text{out}} \right) \right) 
+E = \frac{\dot{V} \times \rho}{3600} \times  \left( h_{\text{in}} - h_{\text{out}} \right) + H . \left( \left( x_{\text{in}} - x_{\text{out}} \right) \right)
 $$
+
