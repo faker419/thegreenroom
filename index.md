@@ -1,17 +1,13 @@
-
 ---
-## The Green Room
-
-
-**Name:** Issa Fares 
-**Date:** `2024-11-11`  
-**Contact:** faresissa22@gmail.com
-
+title: The Green Room
+author: Issa Fares 
+date: 2023-12-12
+category: Jekyll
+layout: post
+mermaid: true
 ---
 
-## Table of Contents
-
-{% include toc.html html=content %}
+[TOC]
 
 ---
 
