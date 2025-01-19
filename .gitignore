@@ -1,3 +1,13 @@
+VerticalFarm.pdf
+darwings
+tables.xlsx
+output_table.xlsx
+extract_tables.py
+notes.md
+convert_images.py
+conver_to_pdf.py
+render.py
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -158,3 +168,5 @@ cython_debug/
 #  and can be added to the global gitignore or merged into this file.  For a more nuclear
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
+
+
