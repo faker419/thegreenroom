@@ -7,6 +7,14 @@ layout: post
 mermaid: true
 ---
 
+## The Green Room
+
+**Name:** Issa Fares 
+**Date:** `2024-11-11`  
+**Contact:** faresissa22@gmail.com
+
+---
+
 toc: true
 
 ---
@@ -69,247 +77,6 @@ seeding.  Following successful germination, the young seedlings move to the nurs
 area of the lettuce module.  The lettuce is transplanted from the nursery into the gutters upon 
 maturity.  Lettuce plants are planted 15 cm apart, allowing 33 plants per gutter.
 
-
-
-<table  style="border-collapse: collapse; width: 100%; font-size: 12px;">
-  <caption style='font-weight: bold; text-align: center; margin-bottom: 5px;'>Table 3-1: Key values of Architectural layout and internal configuration subsystem</caption>
-  <tr>
-    <th colspan='2'>Shell</th>
-    <th >BGF</th>
-    <th >PKW/BGF</th>
-    <th >KKW [€]</th>
-    <th >Costs [K€]</th>
-  </tr>
-  <tr>
-    <td style=''>100   Site</td>
-    <td style=''>m²</td>
-    <td style=''>5225</td>
-    <td style=''>-</td>
-    <td style=''>229,00</td>
-    <td style=''>1.196</td>
-  </tr>
-  <tr>
-    <td style=' font-weight: bold; text-align: center;' colspan='5'>100   Site Total</td>
-    <td style=''>1.196</td>
-  </tr>
-  <tr>
-    <td style=''>200   Opening up</td>
-    <td style=''>m²</td>
-    <td style=''>5225</td>
-    <td style=''>-</td>
-    <td style=''>16,00</td>
-    <td style=''>83</td>
-  </tr>
-  <tr>
-    <td style=' font-weight: bold; text-align: center;' colspan='5'>200   Opening up Total</td>
-    <td style=''>83</td>
-  </tr>
-  <tr>
-    <td style=''>310   Excavation</td>
-    <td style=''>m²</td>
-    <td style=''>2.992,50</td>
-    <td style=''>1,14</td>
-    <td style=''>34,00</td>
-    <td style=''>101</td>
-  </tr>
-  <tr>
-    <td style=''>320   Foundation</td>
-    <td style=''>m²</td>
-    <td style=''>1.800,00</td>
-    <td style=''>0,70</td>
-    <td style=''>326,00</td>
-    <td style=''>586</td>
-  </tr>
-  <tr>
-    <td style=''>330   Outer wall</td>
-    <td style=''>m²</td>
-    <td style=''>1.188,00</td>
-    <td style=''>0,48</td>
-    <td style=''>301,00</td>
-    <td style=''>357</td>
-  </tr>
-  <tr>
-    <td style=''>360   Roof</td>
-    <td style=''>m²</td>
-    <td style=''>1.863,75</td>
-    <td style=''>0,71</td>
-    <td style=''>255,00</td>
-    <td style=''>475</td>
-  </tr>
-  <tr>
-    <td style=' font-weight: bold; text-align: center;' colspan='5'>310, 320, 330, 360   Building - Construction Total</td>
-    <td style=''>1.521</td>
-  </tr>
-  <tr>
-    <td style=' font-weight: bold; text-align: center;' colspan='5'>Total costs industrial production building, mainly skeleton struc-ture "Shell" for 5 stories</td>
-    <td style=''>2.801</td>
-  </tr>
-  <tr>
-    <td style=' font-weight: bold; text-align: center;' colspan='2'>Nominal Floor</td>
-    <td style=''>BGF</td>
-    <td style=''>PKW/BGF</td>
-    <td style=''>KKW €</td>
-    <td style=''>Costs [K€]</td>
-  </tr>
-  <tr>
-    <td style=''>340   Inner wall</td>
-    <td style=''>m²</td>
-    <td style=''>2.582,00</td>
-    <td style=''>0,41</td>
-    <td style=''>295,00</td>
-    <td style=''>761</td>
-  </tr>
-  <tr>
-    <td style=''>350   Ceiling</td>
-    <td style=''>m²</td>
-    <td style=''>2.582,00</td>
-    <td style=''>0,25</td>
-    <td style=''>372,00</td>
-    <td style=''>960</td>
-  </tr>
-  <tr>
-    <td style=''>370   Constructional installations</td>
-    <td style=''>m²</td>
-    <td style=''>2.582,00</td>
-    <td style=''>1,00</td>
-    <td style=''>25,00</td>
-    <td style=''>64</td>
-  </tr>
-  <tr>
-    <td style=''>390   Construction area</td>
-    <td style=''>m²</td>
-    <td style=''>2.582,00</td>
-    <td style=''>1,00</td>
-    <td style=''>28,00</td>
-    <td style=''>72</td>
-  </tr>
-  <tr>
-    <td style=' font-weight: bold; text-align: center;' colspan='5'>340, 350, 370, 390   Building - Construction Total</td>
-    <td style=''>1.859</td>
-  </tr>
-  <tr>
-    <td style=''>410   Sewage, water,gas plants</td>
-    <td style=''>m²</td>
-    <td style=''>2.582,00</td>
-    <td style=''>1,00</td>
-    <td style=''>33,00</td>
-    <td style=''>85</td>
-  </tr>
-  <tr>
-    <td style=''>420   Heat-supply sys-tems</td>
-    <td style=''>m²</td>
-    <td style=''>2.582,00</td>
-    <td style=''>1,00</td>
-    <td style=''>49,00</td>
-    <td style=''>126</td>
-  </tr>
-  <tr>
-    <td style=''>430   Air conditioning systems</td>
-    <td style=''>m²</td>
-    <td style=''>2.582,00</td>
-    <td style=''>1,00</td>
-    <td style=''>30,00</td>
-    <td style=''>77</td>
-  </tr>
-  <tr>
-    <td style=''>440   High voltage plants</td>
-    <td style=''>m²</td>
-    <td style=''>2.582,00</td>
-    <td style=''>1,00</td>
-    <td style=''>108,00</td>
-    <td style=''>278</td>
-  </tr>
-  <tr>
-    <td style=''>450   Com. and info. tech.</td>
-    <td style=''>m²</td>
-    <td style=''>2.582,01</td>
-    <td style=''>1,00</td>
-    <td style=''>13,00</td>
-    <td style=''>33</td>
-  </tr>
-  <tr>
-    <td style=''>460   Conveyor systems</td>
-    <td style=''>m²</td>
-    <td style=''>2.582,00</td>
-    <td style=''>1,00</td>
-    <td style=''>127,00</td>
-    <td style=''>327</td>
-  </tr>
-  <tr>
-    <td style=''>470   Plants for specific  usage</td>
-    <td style=''>m²</td>
-    <td style=''>2.582,00</td>
-    <td style=''>1,00</td>
-    <td style=''>297,00</td>
-    <td style=''>766</td>
-  </tr>
-  <tr>
-    <td style=''>480   Building automa-tion</td>
-    <td style=''>m²</td>
-    <td style=''>2.582,00</td>
-    <td style=''>1,00</td>
-    <td style=''>7,00</td>
-    <td style=''>18</td>
-  </tr>
-  <tr>
-    <td style=''>490   Construction area</td>
-    <td style=''>m²</td>
-    <td style=''>2.582,00</td>
-    <td style=''>1,00</td>
-    <td style=''>0,00</td>
-    <td style=''>0,00</td>
-  </tr>
-  <tr>
-    <td style=' font-weight: bold; text-align: center;' colspan='5'>400   Building - Technical plants Total</td>
-    <td style=''>1.714</td>
-  </tr>
-  <tr>
-    <td style=' font-weight: bold; text-align: center;' colspan='5'>Sum 300+400 (without 310, 320, 330, 360)</td>
-    <td style=''>3.573</td>
-  </tr>
-  <tr>
-    <td style=''>600   Building infrastruc-ture equipment</td>
-    <td style=''>m²</td>
-    <td style=''>2.582,00</td>
-    <td style=''>1,00</td>
-    <td style=''>0,00</td>
-    <td style=''>0,00</td>
-  </tr>
-  <tr>
-    <td style=' font-weight: bold; text-align: center;' colspan='5'>600   Building infrastructure equipment Total</td>
-    <td style=''>0,00</td>
-  </tr>
-  <tr>
-    <td style=''>700   Additional building costs</td>
-    <td style=''>m²</td>
-    <td style=''>2.582,00</td>
-    <td style=''>1,00</td>
-    <td style=''>211,00</td>
-    <td style=''>544</td>
-  </tr>
-  <tr>
-    <td style=' font-weight: bold; text-align: center;' colspan='5'>700   Additional building costs</td>
-    <td style=''>544</td>
-  </tr>
-  <tr>
-    <td style=' font-weight: bold; text-align: center;' colspan='5'>Total costs industrial production building, mainly skeleton structure "1x Floor"</td>
-    <td style=''>4.118</td>
-  </tr>
-  <tr>
-    <td style=' font-weight: bold; text-align: center;' colspan='2'>Number of Floors</td>
-    <td style=' font-weight: bold; text-align: center;' colspan='4'>5</td>
-  </tr>
-  <tr>
-    <td style=' font-weight: bold; text-align: center;' colspan='4'>Total Costs</td>
-    <td style=''>Σall:</td>
-    <td style=''>23.392</td>
-  </tr>
-  <tr>
-    <td style=' font-weight: bold; text-align: center;' colspan='4'>Total Costs</td>
-    <td style=''>Σall:</td>
-    <td style=''>23.392</td>
-  </tr>
-</table>
 
 
 
@@ -394,7 +161,6 @@ speed
 </table>
 
 
-
 Plants from the nurseries are transplanted into the gutters by workers, with the facility running at full 
 capacity, they will need to replant 308 gutters per module per day.  Gutters are 5 m in length and 0,1 m in width.  Plants 
 are spaced 0,15 m from center of planting hole to center of the following planting hole.  This spacing 
@@ -426,7 +192,7 @@ any buildup of algae or other biological waste/growth that could promote plant p
 tering the facility. 
 
 <table  style="border-collapse: collapse; width: 100%; font-size: 12px;">
-  <caption style='font-weight: bold; text-align: center; margin-bottom: 5px;'>Table 3-1:  Growth conditions for each of the growth stages throughout the lettuce life cycle</caption>
+  <caption style='font-weight: bold; text-align: center; margin-bottom: 5px;'>Table 3-2:   Key values of the Horticulture procedures subsystem</caption>
   <tr>
     <th >Operational Elements</th>
     <th >Units</th>
@@ -606,27 +372,7 @@ sumption of 37.5 kW.  This brings the total power consumption for the  productio
 
 
 
-# 8 Air Management & Thermal Control System 
-
-The air management and thermal system are required to maintain the optimal conditions for crop 
-growth.  Its design can impact the cost of a VF due to its effects on energy consumption.  It relates to 
-several other subsystems, e.g., nutrient delivery and illumination, water and heat recovery.  A de
-tailed description of the energy consumption of the system and estimations of the flow rate are giv
-en in this section.  The goals of the design are to optimize the energy balance between energy gener
-ators and energy users to ensure optimal growing conditions for each crop. 
-In a normal Heat Ventilation and Air-Conditioning (HVAC) system, the air is provided by air handling 
-equipment which receives air from outside the building, and air recirculated from the inner space. 
-The outside and return air are mixed in the mixing chamber, filtered, treated, and delivered to inner 
-areas through metal ducts. These metal ducts discharge the air into the inner space, usually through 
-supply air diffusers located at the end of the ducts.  In VF 2.0, the air handling equipment located in 
-the core of each module is a heat pump, which cold buffer for storage can transport the thermal 
-energy removed from the growing compartment to a hot or (see Figure 8-1).  This will allow for the 
-reuse of energy obtained from the removed heat from the plant compartments to be used as heating 
-for the ground floor or core areas. The buffer also contains the energy from the cooling lines of the 
-LED cooling system.
-
-
-# 8 Air Management & Thermal Control System 
+# 6 Air Management & Thermal Control System 
 
 As mentioned above the cultivation area air will have two major sources of thermal energy: sensible 
 energy from the LED lighting system and latent energy from transpiration of the crops.  The air man
@@ -648,15 +394,103 @@ $$
 \dot{V} = \frac{E}{x_{\text{in}} - x_{\text{out}}} \times \frac{1}{\rho}
 $$
 
-where  is the required ventilation rate in m3/m2/h,  is the evapotranspiration rate of the crop 
-in g/m2/h,  is the absolute air humidity inside the compartment in g/kg,  is the absolute air 
-humidity of the air at the outlet of the air management system in g/kg and  is the density of the air 
+where  $\dot{V} $ is the required ventilation rate in m3/m2/h,E is the evapotranspiration rate of the crop 
+in g/m2/h,  is the absolute air humidity inside the compartment in g/kg, $ x_{\text{out}} $ is the absolute air 
+humidity of the air at the outlet of the air management system in g/kg and $ \rho $ is the density of the air 
 in kg/m3.  It is assumed that 100 % of the water vapor in the treated air is recovered.  The total ener
 gy removed from the ventilated air is obtained from the following equation: 
-Where  is the energy removed in kW/m2,  is the evaporation heat of water at 0°C in kJ/kg, 
- is the enthalpy inside the compartment in kJ/kg, and  is the enthalpy of the air from the 
-outlet of the air management system in kJ/kg.
+
 
 $$
-E = \frac{\dot{V}.\rho}{3600} \times [\times \left( h_{\text{in}} - h_{\text{out}} \plues H . \right) \left x_{\text{in}} - x_{\text{out}} \right]
+E_{\text{remove}} = \frac{\dot{V} \times \rho}{3600} \times \left( \left( h_{\text{in}} - h_{\text{out}} \right) + \left( H \times \left( x_{\text{in}} - x_{\text{out}} \right) \right) \right)
 $$
+
+
+Where $ E_{\text{remove}} $ is the energy removed in kW/m2, H is the evaporation heat of water at 0Â°C in kJ/kg, 
+$ h_{\text{in}} $ is the enthalpy inside the compartment in kJ/kg, and $ h_{\text{out}} $  is the enthalpy of the air from the 
+outlet of the air management system in kJ/kg. 
+
+
+The desired conditions inside the lettuce production area are 23Â°C and 80 % relative humidity (RH) 
+(Jasper den Besten, HAS university).  It is assumed that most of the evapotranspiration of the plants 
+occurs during lighting hours, the photoperiod for this crop is 18 hours of light per day.  Evapotranspi
+ration of the crop was only considered for the photoperiod of 18 h (Jasper den Besten, HAS universi
+ty).  Using a maximum evapotranspiration value of 3 l/m2 per day (18 h), it results in 167 g/m2 per 
+hour of water vaper added to the air by the plants. 
+In order to achieve a de-humidification of 167 g/m2 per hour and assuming the air management sys
+tem provides cooling conditions of 10Â°C and 100 % relative humidity, a ventilation rate of 21,9 mÂ³/h 
+is needed for each square meter of cultivation surface.  The latent energy removed at this stage is 
+0,116 kW per square meter of cultivation space and the removed sensible heat is 0,210 kW/m2, 
+which results in a total energy removal of 0,326 kW/m2.  The total recirculation ventilation rate of a 
+single 5.000 m2 lettuce module cultivation area is 109.686 m3/h. It is assumed that the module needs 
+8 refreshments of outdoor air per day, which adds 3.500 m3/h.  This addition of environmental air 
+will add to the final amount of CO2 which needs to be added to the growth compartment. The CO2 
+requirements were calculating assuming an average assimilation rate of the crop inside the leafy 
+greens module of 4 g/m2 h and in the high wire cultivation module of 5 g/m2.  External CO2 concen
+tration was assume constant at 400 ppm. 
+It is assumed that the air is reheated to 21Â°C before reintroducing it to the plant compartment.  The 
+temperature at the outlet of the ventilation ducts is 21Â°C and the absolute humidity of 7,6 gH2O/kgair, 
+which results in a relative humidity of 49.5%.  The air management process represented in the psy
+chrometric chart of the closed loop is shown in Figure 8-2. 
+A total of 0.084 kW/m2 is needed to reheat the air to 21Â°C.  The total recovered heat from the pro
+cess is 0.242 kW/m2.  Power consumption for this processes are estimated in hot and cold cases.  In 
+the hot case, the energy consumption for the HVAC system is 400 kWh per year, with a peak day of 
+1.85 kWh with a coefficient of performance (COP) of 2.6.  In the cold case, the energy consumption 
+for the HVAC system is 160 kWh per year, with a peak day of 1.10 kWh with a COP of 4.5. 
+
+<p align="center">
+  <figcaption >Figure 6: psychrometric chart </figcaption>
+  <img src="figures\figure_6.JPG" alt="Alt text" width="auto">
+</p>
+
+
+The supply of air to each layer of the cultivation rack is done using a 500 mm round duct, this duct 
+keeps allowable air speeds below 8 m/s.  90Â°angles should not be used in the pipe to avoid pressure 
+loss.  Distribution of air inside the levels of the racks is achieved using 5 channels of 500 mm x 200 
+mm which  results in air speeds of approximately 0.3 m/s. The logical layout is one channel for every 
+meter of layer width 
+
+
+
+
+
+# 7 Plant Health Monitoring & Control Architecture 
+
+Controlling and monitoring the climate and status of the plants are essential elements in any agricul
+tural production.  It allows taking corrective measures in time to avoid a decrease in yield and a po
+tential loss of marketable product.  The automatic control of climate variables enables optimum con
+ditions inside the cultivation modules, helps to reduce energy consumption and delivers the best 
+product possible.  In this section, monitoring and control elements are ad
+dressed. 
+
+
+To create a healthy growing environment, temperature, relative humidity (RH) and CO2 have to be 
+carefully controlled.  For optimum control, a climate controller located in the core of each module is 
+installed to measure temperature, RH and CO2 sensors.  Environmental conditions are constantly 
+monitored and are electronically maintained .    
+The amount of fresh air allowed into the building along with the recycled air is carefully controlled to keep the con
+ditions stable and optimal 
+The climate controller receives constant measurements from several Priva E-Measuring boxes, or 
+similar sensor (Raspbery pi with modules), located in each cultivation area.  The box contains sensors for tem
+perature, RH and CO2.  Nurseries are also equipped with these sensor boxes for climate monitoring.  
+6 boxes are distributed in the cultivation area.
+The climate controller responds to these sensors to keep the optimal climactic conditions 
+inside each cultivation module. 
+
+
+
+<p align="center">
+  <figcaption >Figure 7: Priva E-Measuring box </figcaption>
+  <img src="figures\figure_7.JPG" alt="Alt text" width="auto">
+</p>
+
+
+Clean conditions inside the production modules are maintained through the use of an airlock decon
+tamination system to ensure the growing environment remains clear of any plant pathogens or fun
+gal and bacterial infections.   In the airlock chamber, workers disinfect their hands using soap and 
+water as well as put on sterile over suits with hairnets and shoe covers.  In case of a contamination 
+event, the responsible contaminant/pathogen will be identified and treated with hand held pump 
+sprayers.  To prevent insect and fly infestations, in case they are brought into the clean growth area, 
+50 Sticky cards are equally distributed inside the cultivation modules.  Regular inspections by the 
+head grower of the facility will help to identify any negative factors quickly and timely decisions can 
+be made with regards to the required solution.
