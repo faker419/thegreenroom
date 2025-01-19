@@ -624,3 +624,39 @@ energy removed from the growing compartment to a hot or (see Figure 8-1).  This 
 reuse of energy obtained from the removed heat from the plant compartments to be used as heating 
 for the ground floor or core areas. The buffer also contains the energy from the cooling lines of the 
 LED cooling system.
+
+
+# 8 Air Management & Thermal Control System 
+
+As mentioned above the cultivation area air will have two major sources of thermal energy: sensible 
+energy from the LED lighting system and latent energy from transpiration of the crops.  The air man
+agement and thermal control systems primary goal is to remove this extra energy to maintain opti
+mal growing conditions.  Warm and moist air from the plant compartment is transported to the air 
+management and thermal control system room, located in the core of the module, where it is mixed 
+with CO2 to obtain optimal CO2 levels.  This air is then moved to the first stage of the heat pump 
+where it is cooled, allowing it to decrease its humidity content by means of condensation.  This re
+claimed water is transported to buffer tanks, filtered through a UV filter, and used later by the nutri
+ent delivery system.  The cooled air (with high relative humidity) then passes to the second stage of 
+the heat pump where it is heated again to deliver air that will provide the target conditions inside the 
+growth compartment.  Extra heat will dissipate through heat exchanger units mounted on the side 
+wall of the core structure in each module. 
+The design of the system is based on the capacity to dehumidify the warm moist air coming from the 
+cultivation areas to maintain optimal conditions.  The ventilation rate needed to remove the extra 
+humidity content from the growth compartment air can be calculated using the following equation: 
+
+$$
+\dot{V} = \frac{E}{x_{\text{in}} - x_{\text{out}}} \times \frac{1}{\rho}
+$$
+
+where  is the required ventilation rate in m3/m2/h,  is the evapotranspiration rate of the crop 
+in g/m2/h,  is the absolute air humidity inside the compartment in g/kg,  is the absolute air 
+humidity of the air at the outlet of the air management system in g/kg and  is the density of the air 
+in kg/m3.  It is assumed that 100 % of the water vapor in the treated air is recovered.  The total ener
+gy removed from the ventilated air is obtained from the following equation: 
+Where  is the energy removed in kW/m2,  is the evaporation heat of water at 0°C in kJ/kg, 
+ is the enthalpy inside the compartment in kJ/kg, and  is the enthalpy of the air from the 
+outlet of the air management system in kJ/kg.
+
+$$
+E = \frac{\dot{V}.\rho}{3600} \times [\times \left( h_{\text{in}} - h_{\text{out}} \plues H . \right) \left x_{\text{in}} - x_{\text{out}} \right]
+$$
