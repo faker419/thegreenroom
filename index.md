@@ -11,7 +11,7 @@
 
 ## Table of Contents
 
-TOC
+{% include toc.html html=content %}
 
 ---
 
