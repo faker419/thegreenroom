@@ -7,6 +7,9 @@ notes.md
 convert_images.py
 conver_to_pdf.py
 render.py
+_site/
+_draft/
+.jekyll-cache/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
