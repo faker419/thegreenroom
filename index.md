@@ -12,8 +12,11 @@ mermaid: true
 **Name:** Issa Fares 
 **Date:** `2024-11-11`  
 **Contact:** faresissa22@gmail.com
+
 ---
-toc: true
+
+{{ content | toc }}
+
 ---
 
 # 2.0 Architecture Layout
