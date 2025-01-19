@@ -10,7 +10,7 @@ render.py
 _site/
 _draft/
 .jekyll-cache/
-notes_rendered.md
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
