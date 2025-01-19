@@ -13,11 +13,10 @@ mermaid: true
 **Date:** `2024-11-11`  
 **Contact:** faresissa22@gmail.com
 
----
-
-toc
-
----
+```yaml
+toc:
+    enabled: true
+```
 
 # 2.0 Architecture Layout
 
