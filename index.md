@@ -1,7 +1,7 @@
 ---
 title: The Green Room
 author: Issa Fares 
-date: 2023-12-12
+date: 2024-19-01
 category: Jekyll
 layout: post
 mermaid: true
@@ -10,14 +10,32 @@ mermaid: true
 ## The Green Room
 
 **Name:** Issa Fares 
-**Date:** `2024-11-11`  
+**Date:** `2024-19-01`  
 **Contact:** faresissa22@gmail.com
 
----
 
-{% include toc.html html=content %}
 
----
+# 1.0 Introduction
+
+
+In thew following report, the theoretical implementation of a leafy green vertical farm is discused and analysed. 
+the general design flow includes: the plant production process, the climate management compo
+nents, nutrition delivery system (NDS) elements and, the structure itself.  Inputs into the system in
+clude: seeds, energy (light & heat/cooling), carbon dioxide and irrigation water with nutrients.  The 
+returned intermediate outputs, are the water coming from the runoff or the reclaimed water vapor 
+and the heat surplus in the air management system (AMS).  The final outputs obtained through the 
+harvest are inedible matter (waste) and edible matter (product). 
+The separate subsystem chapters include the detailed analysis of the lighting requirements, climatic 
+requirements, horticulture processes, and power consumption analysis among others.  Each of the 
+subsystems is related to a part of the general process flow.  Each subsystem needs to be comple
+mented by the others.  An example can be found in the vegetative and generative stage element 
+where most of the systems connect, either through associated elements or the element itself. 
+
+<p align="center">
+  <figcaption >Diagram 1: System and subsystem elements in the general VF process flow design </figcaption>
+  <img src="figures\figure_0.JPG"  width="auto">
+</p>
+
 
 # 2.0 Architecture Layout
 
@@ -26,7 +44,7 @@ mermaid: true
 The baseline design resulted in 5 warehouses that each measures 75 m by 35 m . 4 of which are cultivation modules, with a singular central convergance warehouse acting as the hub. each cultivation module is divided into two general areas: the core and the 
 production area separated by decontamination airlock.
 Each of the modules measures 6 m floor-to-ceiling. The 
-overall footprint of the projects is 13,125 mÃ‚Â².
+overall footprint of the projects is 13,125 m².
 
 ## 2.2 Central Hub Description 
 
@@ -39,7 +57,7 @@ core areas
 There are 10 cold storage rooms, each one 5 m by 4 m, located in the middle of the central hub floor, five 
 on each side.  Each storage rooms can store a full harvest from a single module each day, 21 pallets 
 (2,040 kg) of lettuce.  
-The rooms have to maintain a minimum temperature of 2Ã‚Â°C and a relative humidity between 90 - 95 %.  
+The rooms have to maintain a minimum temperature of 2°C and a relative humidity between 90 - 95 %.  
 A second exit allows product to be transported from the cold storage to transport trucks.   A small 
 vestibule of three meters is between the cold storage rooms and the truck gate.  The vestibule cre
 ates an air buffer between the outside and the refrigerated area, which will minimize the inflow of 
@@ -54,6 +72,12 @@ on the low floor,the module houses the bulk nutrient solution storage (NDS) tank
 germination room, the module airlock and a packaging room as well as the utility lines connected to 
 the central hub.
 
+<p align="center">
+  <figcaption >Figure 1: Lower level of the lettuce level core together with the nurseries in the working area </figcaption>
+  <img src="figures\figure_1.JPG"  width="auto">
+</p>
+
+
 On top of the germination room, airlock and NDS room the air management, thermal, power control 
 and distribution system components are housed. Detailed descriptions of each of the 
 subsystems and their respective components are in the dedicated subsystem chapters in this report. 
@@ -63,7 +87,12 @@ in length.  Here, the workers have space to harvest, clean and plant gutters whi
 ported to their appropriate areas for the start of the growth cycle.  This area will additionally provide 
 space for the workers to package the incoming produce to be shipped away.  The two nurseries are 
 located near the core and measure 3 m wide by 13 m long and are stacked five layers high.  The total 
-nursery area per module is therefore 390 m2.
+nursery area per module is therefore 390 m².
+
+<p align="center">
+  <figcaption >Figure 2: Top view of a module production level  </figcaption>
+  <img src="figures\figure_2.JPG"  width="auto">
+</p>
 
 The cultivation area contains five gutter growth racks, with each rack being 50 m long and 5 m wide . 
 The total height of the growth rack is 6 m, which is the entire floor-to-ceiling 
@@ -87,7 +116,7 @@ germination rooms under germination specific conditions.  The seedlings then spe
 14 days in the nurseries before they are transplanted out into the main gutter growth system.  
 Lettuce will spend a total of 28 days maturing in the primary gutter system.  These 28 days are divid
 ed up into three distinct phases differing mainly in light intensities.  Each of the five 
-levels within the five cultivation racks (see Figure 3-7) will act as an independent growing system 
+levels within the five cultivation racks will act as an independent growing system 
 containing all the necessary lighting conditions to produce fully mature lettuce as they move down 
 the length of the grow rack.  Mature head of lettuce are ready to harvest when it reaches an edible 
 fresh weight of approximately 200 g.
@@ -104,7 +133,7 @@ Humidity
 [%]</th>
     <th >Light In-
 tensity 
-[μmol/m2/s]</th>
+[μmol/²/s]</th>
     <th >CO2 
 [ppm]</th>
     <th >Wind 
@@ -162,18 +191,18 @@ speed
 
 
 Plants from the nurseries are transplanted into the gutters by workers, with the facility running at full 
-capacity, they will need to replant 308 gutters per module per day.  Gutters are 5 m in length and 0,1 m in width.  Plants 
-are spaced 0,15 m from center of planting hole to center of the following planting hole.  This spacing 
+capacity, they will need to replant 308 gutters per module per day.  Gutters are 5 m in length and 0.1 m in width.  Plants 
+are spaced 0.15 m from center of planting hole to center of the following planting hole.  This spacing 
 allows for thirty-three plants to be planted per gutter.   
 Plants will mature and be ready for daily harvest in twelve gutter batches.  Each day workers will 
 collect gutters from each growth rack level and replace at the other end with newly transplanted 
-gutters.  The gutters in the level then shift up to fill the space created by the dayÂ´s harvest.   
+gutters.  The gutters in the level then shift up to fill the space created by the day´s harvest.   
 Growth phase 1 is 12.2 m long and has gutters packed with no spacing be
-tween them, resulting in a plant density of 66 pl/m2.  This stage will last for a total of ten days.  Fol
+tween them, resulting in a plant density of 66 pl/m².  This stage will last for a total of ten days.  Fol
 lowing this stage the gutters will move into the middle section, which is 
-15,7 m long and has the gutters spaced at 5 cm, which results in a plant density of 44 pl/m2.  This 
+15,7 m long and has the gutters spaced at 5 cm, which results in a plant density of 44 pl/m².  This 
 stage lasts nine days.  The third and final stage, is 22 m long and increases 
-the spacing between the gutters to 10 cm resulting in a final harvesting density of 33 pl/m2.  The gut
+the spacing between the gutters to 10 cm resulting in a final harvesting density of 33 pl/m².  The gut
 ters spend a total of nine days in this section before they are ready to be harvested. 
 
 This level of production will produce a maximum of 2,029.5 kg of edible mass per day per module.  This level of production will allow each 
@@ -181,9 +210,9 @@ square meter of growing area to produce 146.5 kg of edible produce per year per 
 Index (HI) of a crop looks at the ratio of edible mass to the inedible mass.  For lettuce the HI is 0,85, 
 assuming a uniform distribution of cellular water, this will result in the production of 304.4 kg of inedi
 ble mass per day per module.  
-The lettuce is packed in boxes of 0,24 m2 (dimensions 40 x 60 x 20 cm), each box contains twelve 
+The lettuce is packed in boxes of 0.24 m² (dimensions 40 x 60 x 20 cm), each box contains twelve 
 heads of lettuce.  There will be four boxes arranged in a standard EPAL pallet (80 cm x 120 cm).  Each 
-box will weigh approximately 2,4 kg, and will be stacked twelve boxes high.  This results in a total of 
+box will weigh approximately 2.4 kg, and will be stacked twelve boxes high.  This results in a total of 
 forty boxes per pallet, with a total pallet weight of 96 kg.  The total production will be approximately 
 twenty one pallets per day per module.  Inedible matter is sent to the central hub through a chute to be pro
 cessed outside the project. 
@@ -203,7 +232,7 @@ tering the facility.
   </tr>
   <tr>
     <td style=''>Gutter Rack Structure**</td>
-    <td style=''>257.259</td>
+    <td style=''>257259.0</td>
   </tr>
   <tr>
     <td style=''>Gutter Rack Controller 
@@ -223,19 +252,19 @@ and Motors</td>
   </tr>
   <tr>
     <td style=''>Rockwool Cubes and Cups</td>
-    <td style=''>353.4</td>
+    <td style=''>353400.0</td>
   </tr>
   <tr>
     <td style=''>Waste Transport*</td>
-    <td style=''>5.0</td>
+    <td style=''>5000.0</td>
   </tr>
   <tr>
     <td style=''>Gutters</td>
-    <td style=''>10.0</td>
+    <td style=''>10000.0</td>
   </tr>
   <tr>
     <td style=''>Pallets for Transport</td>
-    <td style=''>2.0</td>
+    <td style=''>2000.0</td>
   </tr>
   <tr>
     <td style=''>Trolleys</td>
@@ -286,24 +315,23 @@ into distributed nutrient solution buffer tanks.  The incoming fresh water only 
 nutrient solution buffer tanks which empty slowly through plant activity and any leaks or grower 
 activities.  The bulk solution tanks and mixing computer system are placed in the NDS room located 
 in the core of the module, clean access (from inside the plant growth area) is provided to this room. 
-The two fresh water tanks in the central hub are set to be 150 m3 to allow for expansion of modular production of the 
-Vertical Farm without new investment, which supplies enough fresh water needed for all the initial 
+The two fresh water tanks in the central hub are set to be 150 m³ to allow for expansion of modular production of the Vertical Farm without new investment, which supplies enough fresh water needed for all the initial 
 modules. 
 
 The baseline nutrient solution is designed following comprehensive analyses of the supply water to 
-factor in native minerals and pH levels.   Over time, the nutrient solution inside the system will be
+factor in native minerals and pH levels. Over time, the nutrient solution inside the system will be
 come unbalanced.  The rate of nutrient absorption by the plants may change for different ions, and 
-the lack of individual ions cannot be restored using a dual stock solution system.  This can be solved 
+the lack of individual ions cannot be restored using a dual stock solution system. This can be solved 
 by analyzing the time it takes for an important imbalance in the nutrient solution to occur and flush
 ing the system completely. The nutrient solution is restored approximately every six months.
 
 ### 4.1.1 Gutter System, Lettuce, Irrigation 
 
 The initial calculations for the irrigation needs of the system were based on the transpiration rate of 
-the mature crop.  For a fully grown lettuce, the transpiration rate is 3 liter per m2 per day, and a wa
-ter buffer of 27 liter per m2 per day was assumed.  For a 5.000 m2 cultivation area, this amounts to 
-150 m3 per day or 30 liter per m2 per day for each lettuce module.  The distributed nutrient solution 
-tanks are 75m3 (75,000 liter) per module. 
+the mature crop.  For a fully grown lettuce, the transpiration rate is 3 liter per m² per day, and a wa
+ter buffer of 27 liter per m² per day was assumed. For a 5,000 m² cultivation area, this amounts to 
+150 m³ per day or 30 liter per m² per day for each lettuce module. The distributed nutrient solution 
+tanks are 75m³ (75,000 liter) per module. 
 Each growth rack is divided into five growth levels of one meter each, each equipped with a drain 
 and an irrigation pipe with individual drippers.  Irrigation is suspended above each 
 channel to allow for mobility of the gutters.  Drainage channels leading to the reservoirs are present 
@@ -314,7 +342,7 @@ tion tank size.
 Each of the dripper manifolds was assumed to work with 2 bars of pressure at the inlet and was sized 
 at 16/13.6 mm (outer/inner diameter).  Pressure losses due to elbows and tee flows are taken into 
 account.  The maximum velocity inside the pipes was 2.2 m/s and a design pressure of 1.72 bar was 
-used.  The calculation resulted in a 2 meter distribution inlet line per rack of 69.5 mm Ã˜ (2 Â½ inch) 
+used.  The calculation resulted in a 2 meter distribution inlet line per rack of 69.5 mm Ã˜ (2 ½ inch) 
 and 1 meter sections of 84.6 mm Ã˜ (3 inch) and 108 mm Ã˜ (4 inch) each.  The main distribution line 
 pressure and velocity allows for the use of only 108 mm Ã˜ (4 inch) pipes, approximately 50 meters 
 long. The return pipe length was estimated in 60 meters.
@@ -351,23 +379,19 @@ DYNA C9 model or MITRA X Flex which is more than twice as efficient, thus fewer 
   <img src="figures\figure_5.JPG"  width="auto">
 </p>
 
-The lamps should be placed at 0,25 m from the top of the plant canopy.  For the first section of the growth level, where the plants are in the early development stage (day 0-10), the lighting system should provide 200 Î¼mol m-2 s-1 of Photosynthetically Active 
+The lamps should be placed at 0.25 m from the top of the plant canopy.  For the first section of the growth level, where the plants are in the early development stage (day 0-10), the lighting system should provide 200 Î¼mol / m² s of Photosynthetically Active 
 Radiation (PAR), defined as light available for photosynthesis between the wavelengths of 400-700 
-nm, and 30 Î¼mol m-2 s-1 of Far Infrared Radiation (FIR). Throughout the middle section of the growth 
-levels, where the plants are in the second phase of development , the lighting system should provide 225 Î¼mol m-2 s-1 PAR and 34 Î¼mol m-2 s-1 FIR.  
-For the final section of the growth levels, where the plants reach maturity (day 19-28), the lighting system should provide 250 Î¼mol m-2 s-1 PAR   
-only. The lighting system layout is designed with sets of four light bars when usin V101G-L, which are mounted end to end, perpendicular 
-to the length of the growth rack Each level of the growth rack contains 70 sets of lights, thus there is 
-a set of lights every 0,71 m.  Each set is powered by an Artesyn â„¢ LCC 600 watt conduction cooled 
+nm, and 30 Î¼mol / m² s of Far Infrared Radiation (FIR). Throughout the middle section of the growth 
+levels, where the plants are in the second phase of development , the lighting system should provide 225 Î¼mol / m²s PAR and 34 Î¼mol / m² s FIR.  
+For the final section of the growth levels, where the plants reach maturity (day 19-28), the lighting system should provide 250 Î¼mol / m² s PAR   
+only. The lighting system layout is designed with sets of four light bars when usin V101G-L, which are mounted end to end, perpendicular to the length of the growth rack Each level of the growth rack contains 70 sets of lights, thus there is a set of lights every 0.71 m.  Each set is powered by an Artesyn „¢ LCC 600 watt conduction cooled 
 AC-DC power supply.
 
 Each light set is supplied with 500 W to power the lights, which adds to 35000 W per level in each 
 growth rack.  Each growth rack has five grow levels with lights; the total power demand for each 
 cultivation rack is 175 kW.  The total power needed for the whole cultivation area is 880 kW.   Ap
-proximately 40% of the heat is dissipated by the liquid cooling (352 kW), the rest is radiated to the 
-surrounding air (528 kW). 
-The nurseries use a separate lighting system which provides 150 Î¼mol m-2 s-1 PAR, with a power con
-sumption of 37.5 kW.  This brings the total power consumption for the  production module to 
+proximately 40% of the heat is dissipated by the liquid cooling (352 kW), the rest is radiated to the surrounding air (528 kW). 
+The nurseries use a separate lighting system which provides 150 Î¼mol / m² s PAR, with a power consumption of 37.5 kW.  This brings the total power consumption for the  production module to 
 917.5 kW.  
 
 
@@ -394,10 +418,10 @@ $$
 \dot{V} = \frac{E}{x_{\text{in}} - x_{\text{out}}} \times \frac{1}{\rho}
 $$
 
-where  $\dot{V} $ is the required ventilation rate in m3/m2/h,E is the evapotranspiration rate of the crop 
-in g/m2/h,  is the absolute air humidity inside the compartment in g/kg, $ x_{\text{out}} $ is the absolute air 
+where  $\dot{V} $ is the required ventilation rate in m³/m²/h,E is the evapotranspiration rate of the crop 
+in g/m²/h,  is the absolute air humidity inside the compartment in g/kg, $ x_{\text{out}} $ is the absolute air 
 humidity of the air at the outlet of the air management system in g/kg and $ \rho $ is the density of the air 
-in kg/m3.  It is assumed that 100 % of the water vapor in the treated air is recovered.  The total ener
+in kg/m³.  It is assumed that 100 % of the water vapor in the treated air is recovered.  The total ener
 gy removed from the ventilated air is obtained from the following equation: 
 
 
@@ -406,34 +430,34 @@ E_{\text{remove}} = \frac{\dot{V} \times \rho}{3600} \times \left( \left( h_{\te
 $$
 
 
-Where $ E_{\text{remove}} $ is the energy removed in kW/m2, H is the evaporation heat of water at 0Â°C in kJ/kg, 
+Where $ E_{\text{remove}} $ is the energy removed in kW/m², H is the evaporation heat of water at 0°C in kJ/kg, 
 $ h_{\text{in}} $ is the enthalpy inside the compartment in kJ/kg, and $ h_{\text{out}} $  is the enthalpy of the air from the 
 outlet of the air management system in kJ/kg. 
 
 
-The desired conditions inside the lettuce production area are 23Â°C and 80 % relative humidity (RH) 
+The desired conditions inside the lettuce production area are 23°C and 80 % relative humidity (RH) 
 (Jasper den Besten, HAS university).  It is assumed that most of the evapotranspiration of the plants 
 occurs during lighting hours, the photoperiod for this crop is 18 hours of light per day.  Evapotranspi
 ration of the crop was only considered for the photoperiod of 18 h (Jasper den Besten, HAS universi
-ty).  Using a maximum evapotranspiration value of 3 l/m2 per day (18 h), it results in 167 g/m2 per 
+ty).  Using a maximum evapotranspiration value of 3 l/m² per day (18 h), it results in 167 g/m² per 
 hour of water vaper added to the air by the plants. 
-In order to achieve a de-humidification of 167 g/m2 per hour and assuming the air management sys
-tem provides cooling conditions of 10Â°C and 100 % relative humidity, a ventilation rate of 21,9 mÂ³/h 
+In order to achieve a de-humidification of 167 g/m² per hour and assuming the air management sys
+tem provides cooling conditions of 10°C and 100 % relative humidity, a ventilation rate of 21.9 m³/h 
 is needed for each square meter of cultivation surface.  The latent energy removed at this stage is 
-0,116 kW per square meter of cultivation space and the removed sensible heat is 0,210 kW/m2, 
-which results in a total energy removal of 0,326 kW/m2.  The total recirculation ventilation rate of a 
-single 5.000 m2 lettuce module cultivation area is 109.686 m3/h. It is assumed that the module needs 
-8 refreshments of outdoor air per day, which adds 3.500 m3/h.  This addition of environmental air 
+0.116 kW per square meter of cultivation space and the removed sensible heat is 0.210 kW/m², 
+which results in a total energy removal of 0,326 kW/m².  The total recirculation ventilation rate of a 
+single 5.000 m² lettuce module cultivation area is 109.686 m³/h. It is assumed that the module needs 
+8 refreshments of outdoor air per day, which adds 3.500 m³/h.  This addition of environmental air 
 will add to the final amount of CO2 which needs to be added to the growth compartment. The CO2 
 requirements were calculating assuming an average assimilation rate of the crop inside the leafy 
-greens module of 4 g/m2 h and in the high wire cultivation module of 5 g/m2.  External CO2 concen
+greens module of 4 g/m² h and in the high wire cultivation module of 5 g/m².  External CO2 concen
 tration was assume constant at 400 ppm. 
-It is assumed that the air is reheated to 21Â°C before reintroducing it to the plant compartment.  The 
-temperature at the outlet of the ventilation ducts is 21Â°C and the absolute humidity of 7,6 gH2O/kgair, 
+It is assumed that the air is reheated to 21°C before reintroducing it to the plant compartment.  The 
+temperature at the outlet of the ventilation ducts is 21°C and the absolute humidity of 7.6 gH2O/kgair, 
 which results in a relative humidity of 49.5%.  The air management process represented in the psy
-chrometric chart of the closed loop is shown in Figure 8-2. 
-A total of 0.084 kW/m2 is needed to reheat the air to 21Â°C.  The total recovered heat from the pro
-cess is 0.242 kW/m2.  Power consumption for this processes are estimated in hot and cold cases.  In 
+chrometric chart of the closed loop. 
+A total of 0.084 kW/m² is needed to reheat the air to 21°C.  The total recovered heat from the pro
+cess is 0.242 kW/m².  Power consumption for this processes are estimated in hot and cold cases.  In 
 the hot case, the energy consumption for the HVAC system is 400 kWh per year, with a peak day of 
 1.85 kWh with a coefficient of performance (COP) of 2.6.  In the cold case, the energy consumption 
 for the HVAC system is 160 kWh per year, with a peak day of 1.10 kWh with a COP of 4.5. 
@@ -445,7 +469,7 @@ for the HVAC system is 160 kWh per year, with a peak day of 1.10 kWh with a COP 
 
 
 The supply of air to each layer of the cultivation rack is done using a 500 mm round duct, this duct 
-keeps allowable air speeds below 8 m/s.  90Â°angles should not be used in the pipe to avoid pressure 
+keeps allowable air speeds below 8 m/s.  90°angles should not be used in the pipe to avoid pressure 
 loss.  Distribution of air inside the levels of the racks is achieved using 5 channels of 500 mm x 200 
 mm which  results in air speeds of approximately 0.3 m/s. The logical layout is one channel for every 
 meter of layer width 
