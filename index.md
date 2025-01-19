@@ -15,7 +15,7 @@ mermaid: true
 
 ---
 
-{{ content | toc }}
+toc: true
 
 ---
 
