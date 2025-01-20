@@ -12,7 +12,7 @@ mermaid: true
 **Contact:** faresissa22@gmail.com
 
 <p align="center">
-  <img src="figures\bg.JPG"  width="auto">
+  <img src="figures\bg.jpg"  width="auto">
 </p>
 
 # 1.0 Introduction
@@ -116,22 +116,22 @@ maturity.  Lettuce plants are planted 15 cm apart, allowing 33 plants per gutter
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px; text-align: center;">
   <div>
     <figcaption>Figure 4: Frame</figcaption>
-    <img src="figures/figure_4.JPG" width="auto">
+    <img src="figures\figure_4.jpg" width="auto">
   </div>
   <div>
     <figcaption>Figure 5: Lighting</figcaption>
-    <img src="figures/figure_5.JPG" width="auto">
+    <img src="figures\figure_5.jpg" width="auto">
   </div>
 </div>
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px; text-align: center;">
   <div>
     <figcaption>Figure 6: Air ducts</figcaption>
-    <img src="figures/figure_6.JPG" width="auto">
+    <img src="figures\figure_6.jpg" width="auto">
   </div>
   <div>
     <figcaption>Figure 7: conveyor with gutters</figcaption>
-    <img src="figures/figure_7.JPG" width="auto">
+    <img src="figures\figure_7.jpg" width="auto">
   </div>
 </div>
 
