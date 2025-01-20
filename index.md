@@ -116,18 +116,18 @@ maturity.  Lettuce plants are planted 15 cm apart, allowing 33 plants per gutter
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px; text-align: center;">
   <div>
     <figcaption>Figure 4: Frame</figcaption>
-    <img src="figures\figure_4.jpg" width="auto">
+    <img src="figures\figure_4.JPG" width="auto">
   </div>
   <div>
     <figcaption>Figure 5: Lighting</figcaption>
-    <img src="figures\figure_5.jpg" width="auto">
+    <img src="figures\figure_5.JPG" width="auto">
   </div>
 </div>
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px; text-align: center;">
   <div>
     <figcaption>Figure 6: Air ducts</figcaption>
-    <img src="figures\figure_6.jpg" width="auto">
+    <img src="figures\figure_6.JPG" width="auto">
   </div>
   <div>
     <figcaption>Figure 7: conveyor with gutters</figcaption>
@@ -138,11 +138,11 @@ maturity.  Lettuce plants are planted 15 cm apart, allowing 33 plants per gutter
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px; text-align: center;">
   <div>
     <figcaption>Figure 8: pipe system</figcaption>
-    <img src="figures/figure_8.JPG" width="auto">
+    <img src="figures/figure_8.jpg" width="auto">
   </div>
   <div>
     <figcaption>Figure 9: solution collection duct</figcaption>
-    <img src="figures/figure_9.JPG" width="auto">
+    <img src="figures/figure_9.jpg" width="auto">
   </div>
 </div>
 
@@ -564,7 +564,7 @@ inside each cultivation module.
 
 <p align="center">
   <figcaption >Figure 14: Priva E-Measuring box </figcaption>
-  <img src="figures\figure_14.JPG"  width="auto">
+  <img src="figures\figure_14.jpg"  width="auto">
 </p>
 
 
