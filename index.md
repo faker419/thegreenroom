@@ -34,7 +34,7 @@ where most of the systems connect, either through associated elements or the ele
 
 <p align="center">
   <figcaption >Figure 1: System and subsystem elements in the general VF process flow design </figcaption>
-  <img src="figures\figure_1.JPG"  width="auto">
+  <img src="figures\figure_1.jpg"  width="auto">
 </p>
 
 
@@ -78,7 +78,7 @@ the central hub.
 
 <p align="center">
   <figcaption >Figure 2: Lower level of the lettuce level core together with the nurseries in the working area </figcaption>
-  <img src="figures\figure_2.JPG"  width="auto">
+  <img src="figures\figure_2.jpg"  width="auto">
 </p>
 
 
@@ -97,7 +97,7 @@ module is therefore 390 m².
 
 <p align="center">
   <figcaption >Figure 3: Top view of a module production level  </figcaption>
-  <img src="figures\figure_3.JPG"  width="auto">
+  <img src="figures\figure_3.jpg"  width="auto">
 </p>
 
 The cultivation area contains five gutter growth racks, with each rack being 50 m long and 5 m wide . 
@@ -352,7 +352,7 @@ system is working correctly.
 
 <p align="center">
   <figcaption >Figure 10: Diagram of the nutrient delivery system of the modules </figcaption>
-  <img src="figures\figure_10.JPG"  width="auto">
+  <img src="figures\figure_10.jpg"  width="auto">
 </p>
 
 After irrigating the plants, the nutrient solution is pumped through UV
@@ -418,13 +418,13 @@ DYNA C9 model or MITRA X Flex which is more than twice as efficient, thus fewer 
 
 <p align="center">
   <figcaption >Figure 11: MITRA X Flex Model </figcaption>
-  <img src="figures\figure_11.JPG"  width="auto">
+  <img src="figures\figure_11.jpg"  width="auto">
 </p>
 
 
 <p align="center">
   <figcaption >Figure 12: spectrum for helioSPEC MITRA X R80F Flex  </figcaption>
-  <img src="figures\figure_12.JPG"  width="auto">
+  <img src="figures\figure_12.jpg"  width="auto">
 </p>
 
 The lamps should be placed at 0.25 m from the top of the plant canopy.  For the
@@ -524,7 +524,7 @@ for the HVAC system is 160 kWh per year, with a peak day of 1.10 kWh with a COP 
 
 <p align="center">
   <figcaption >Figure 13: psychrometric chart </figcaption>
-  <img src="figures\figure_13.JPG"  width="auto">
+  <img src="figures\figure_13.jpg"  width="auto">
 </p>
 
 

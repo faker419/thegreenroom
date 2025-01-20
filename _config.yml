@@ -2,6 +2,3 @@ remote_theme: sighingnow/jekyll-gitbook
 toc:
     enabled: true
 
-markdown: kramdown
-kramdown:
-  extensions: ["footnotes"]
