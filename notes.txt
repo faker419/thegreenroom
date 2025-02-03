@@ -1,0 +1,10 @@
+please translate the following into concise and easy to understand text:
+
+i am tryng to creeate a system that will be responsible for irrigation in the vertical farm i am building. i was hoping to build daid systems with microcontrollers, sensors and actuators. the actuators here
+could be selenoid control valves and some pumps but im uncertain what censors to use, i hope you can advice.
+the system design is as follows: water is pumped from the bore hole and pumped into a reverse osmosis station where it is cleaned by uv light and deposited into tank A. 
+each cycle the system first checkshow much nutrient solution volume in tank storage B, if the volume is above the minimum threshold required to pump to all plants, it then checks the EC and Ph levels.
+if they are within the margin of that specifics plants rtequirements the mixer is turned on for some time and irregation starts. if the volume that has been checked in tank storage B
+is insufficient for irregation for the cycles requirement, water that has been cleaned and stored in tank sorage A is first pumped to tank storage B upto a predetermined threshold. then the EC and PH levels are taken.
+based onn the sendor reading, specific volume of acid or based with a specific molar is pumped into the tank to neutralize the excess and bring the PH to requirements. the same occurs for EC levels. afterwards the mixer is turned on
+and the readings are taken again. if the readings are withing required threshhold the irrigation strarts, else it enters into another cycle of recaliberation. if recalliberation fails 3 times, the system stops and sends a kill and maintenance signals.
