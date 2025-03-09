@@ -101,11 +101,11 @@ The building structure will be constructed from the ground up, designed to accom
 <table  cellspacing="0" cellpadding="5">
 <caption style=' text-align: center; margin-bottom: 5px; margin-top: 20px;'> <b>Table 1:</b> Construction Breakdown by Phase (detailed)</caption>
     <tr>
-        <th>Sub-Structure (NGN 9,897,800)</th>
-        <th>Super-Structure (NGN 28,281,000)</th>
-        <th>Blockwork (NGN 9,188,500)</th>
-        <th>Electrical (NGN 4,652,500)</th>
-        <th>Finishing (NGN 10,889,500)</th>
+        <th>Sub-Structure (₦9,897,800)</th>
+        <th>Super-Structure (₦28,281,000)</th>
+        <th>Blockwork (₦9,188,500)</th>
+        <th>Electrical (₦4,652,500)</th>
+        <th>Finishing (₦10,889,500)</th>
     </tr>
     <tr>
         <td>Site Clearing</td>
@@ -180,8 +180,8 @@ The building structure will be constructed from the ground up, designed to accom
     <th></th>
     <th>Unit</th>
     <th>Qty</th>
-    <th>Unit Price</th>
-    <th>Total</th>
+    <th>Unit Price (₦)</th>
+    <th>Total (₦)</th>
   </tr>
   <tr>
     <td rowspan="3"><b>Reinforcement</b></td>
@@ -271,8 +271,8 @@ The building structure will be constructed from the ground up, designed to accom
         <th>Location</th>
         <th>Item</th>
         <th>Qty</th>
-        <th>Unit Price</th>
-        <th>Amount</th>
+        <th>Unit Price (₦)</th>
+        <th>Amount (₦)</th>
     </tr>
     <tr>
         <td rowspan="5">Office</td>
@@ -306,7 +306,7 @@ The building structure will be constructed from the ground up, designed to accom
         <td>800,000</td>
     </tr>
     <tr>
-        <td rowspan="7">Lab</td>
+        <td rowspan="9">Lab</td>
         <td>Chemical Equipments</td>
         <td>1</td>
         <td>500,000</td>
@@ -336,11 +336,23 @@ The building structure will be constructed from the ground up, designed to accom
         <td>70</td>
         <td>28,000</td>
     </tr>
-        <tr>
+    <tr>
         <td>Steel Seal Doors</td>
         <td>4</td>
         <td>500,000</td>
         <td>2,000,000</td>
+    </tr>
+    <tr>
+        <td>Seco-Larm Enforcer Electromagnetic Lock with LED, Bond & Door Position Sensor</td>
+        <td>2</td>
+        <td>320,000</td>
+        <td>640,000</td>
+    </tr>
+    <tr>
+        <td>Emergency Glass enclosed Exit Button</td>
+        <td>3</td>
+        <td>16,000</td>
+        <td>48,000</td>
     </tr>
     <tr>
         <td>Misc</td>
@@ -350,7 +362,7 @@ The building structure will be constructed from the ground up, designed to accom
     </tr>
     <tr>
         <td colspan="4" style="text-align:center;"><b>Total</b></td>
-        <td><b>5,333,000</b></td>
+        <td><b>6,021,000</b></td>
     </tr>
 </table>
 
@@ -599,80 +611,80 @@ During this process, Tank B continuously pumps the solution to the vertical farm
         <tr>
             <th>Component</th>
             <th>Quantity</th>
-            <th>Unit Price</th>
-            <th>Total</th>
+            <th>Unit Price ($)</th>
+            <th>Total ($)</th>
         </tr>
     </thead>
     <tbody>
         <tr>
             <td>SINAMICS V20 (variable frequency drive)</td>
             <td>4</td>
-            <td>$135</td>
-            <td>$540</td>
+            <td>135</td>
+            <td>540</td>
         </tr>
         <tr>
             <td>Siemens S7-1200 PLC</td>
             <td>1</td>
-            <td>$1,317</td>
-            <td>$1,317</td>
+            <td>1,317</td>
+            <td>1,317</td>
         </tr>
         <tr>
             <td>Expansion SM 1231 AI 8x13 Bit Analog Input</td>
             <td>2</td>
-            <td>$250</td>
-            <td>$500</td>
+            <td>250</td>
+            <td>500</td>
         </tr>
         <tr>
             <td>SM 1232 AQ 4x14 Bit Analog Output</td>
             <td>2</td>
-            <td>$500</td>
-            <td>$1000</td>
+            <td>500</td>
+            <td>1000</td>
         </tr>
         <tr>
-            <td>M 1241 RS485 module (MODBUS COM)</td>
+            <td>CM 1241 RS485 module (MODBUS COM)</td>
             <td>1</td>
-            <td>$240</td>
-            <td>$240</td>
+            <td>240</td>
+            <td>240</td>
         </tr>
         <tr>
             <td>(W)MD-30R(T) ikawi pump</td>
             <td>4</td>
-            <td>$384</td>
-            <td>$1,536</td>
+            <td>384</td>
+            <td>1,536</td>
         </tr>
         <tr>
             <td>Burkert 6281 (Direct-Acting) servo controlled valve</td>
             <td>5</td>
-            <td>$25</td>
-            <td>$125</td>
+            <td>25</td>
+            <td>125</td>
         </tr>
         <tr>
             <td>Siemens SITRANS FM MAG DN-25 flow meter</td>
             <td>5</td>
-            <td>$300</td>
-            <td>$1,500</td>
+            <td>300</td>
+            <td>1,500</td>
         </tr>
         <tr>
             <td>VEGAPULS Liquid measuring sensor</td>
             <td>2</td>
-            <td>$320</td>
-            <td>$640</td>
+            <td>320</td>
+            <td>640</td>
         </tr>
         <tr>
             <td>Micro controllers</td>
             <td>3</td>
-            <td>$120</td>
-            <td>$360</td>
+            <td>120</td>
+            <td>360</td>
         </tr>
         <tr>
             <td>Wiring and components (estimated)</td>
             <td>1</td>
-            <td>$300</td>
-            <td>$300</td>
+            <td>300</td>
+            <td>300</td>
         </tr>
         <tr>
             <td colspan="3" style="text-align:end;"><strong>Total</strong></td>
-            <td ><strong>$8,058</strong></td>
+            <td ><strong>8,058</strong></td>
         </tr>
     </tbody>
 </table>
@@ -684,56 +696,56 @@ During this process, Tank B continuously pumps the solution to the vertical farm
     <tr>
       <th>Component</th>
       <th>Quantity</th>
-      <th>Unit Price</th>
-      <th>Amount</th>
+      <th>Unit Price ($)</th>
+      <th>Amount ($)</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td>Bluelab Pro Controller Wi-Fi<br>In stock SKU BCTPRC02</td>
       <td>1</td>
-      <td>$1,350</td>
-      <td>$1,350</td>
+      <td>1,350</td>
+      <td>1,350</td>
     </tr>
     <tr>
       <td>Bluelab PeriPod M3</td>
       <td>1</td>
-      <td>$1,107</td>
-      <td>$1,107</td>
+      <td>1,107</td>
+      <td>1,107</td>
     </tr>
     <tr>
       <td>Bluelab pH Probe 5M</td>
       <td>1</td>
-      <td>$89</td>
-      <td>$89</td>
+      <td>89</td>
+      <td>89</td>
     </tr>
     <tr>
       <td>Bluelab Pro Controller Conductivity Probe</td>
       <td>1</td>
-      <td>$61</td>
-      <td>$61</td>
+      <td>61</td>
+      <td>61</td>
     </tr>
     <tr>
       <td>Acid Tubing (White) Suitable for Bluelab PeriPod</td>
       <td>1</td>
-      <td>$80</td>
-      <td>$80</td>
+      <td>80</td>
+      <td>80</td>
     </tr>
     <tr>
       <td>Bluelab Probe Care Kit – pH and Conductivity</td>
       <td>1</td>
-      <td>$29</td>
-      <td>$29</td>
+      <td>29</td>
+      <td>29</td>
     </tr>
     <tr>
       <td>Autogrow IntelliClimate Kit</td>
       <td>1</td>
-      <td>$1,588</td>
-      <td>$1,588</td>
+      <td>1,588</td>
+      <td>1,588</td>
     </tr>
     <tr>
       <td colspan="3" style="text-align:end;"><strong>Total</strong></td>
-      <td><strong>$4,304</strong></td>
+      <td><strong>4,304</strong></td>
     </tr>
     <tr>
       <td colspan="4" style="text-align:center;"><strong>or</strong></td>
@@ -741,66 +753,66 @@ During this process, Tank B continuously pumps the solution to the vertical farm
     <tr>
       <td>Four-ring EC/TDS Probe with Internal Temperature Sensor</td>
       <td>1</td>
-      <td>$2,300</td>
-      <td>$2,300</td>
+      <td>2,300</td>
+      <td>2,300</td>
     </tr>
     <tr>
       <td>EasyFerm Bio pH Sensor</td>
       <td>1</td>
-      <td>$1,750</td>
-      <td>$1,750</td>
+      <td>1,750</td>
+      <td>1,750</td>
     </tr>
     <tr>
       <td>1413 µS/cm Conductivity Standard in Light Block Bottle (500mL)</td>
       <td>1</td>
-      <td>$40</td>
-      <td>$40</td>
+      <td>40</td>
+      <td>40</td>
     </tr>
     <tr>
       <td>Cole-Parmer Masterflex L/S Series</td>
       <td>2</td>
-      <td>$1,900</td>
-      <td>$3,800</td>
+      <td>1,900</td>
+      <td>3,800</td>
     </tr>
     <tr>
       <td>Watson Marlow 520Di Peristaltic Pump</td>
       <td>1</td>
-      <td>$1,400</td>
-      <td>$1,400</td>
+      <td>1,400</td>
+      <td>1,400</td>
     </tr>
     <tr>
       <td>SenseAir S8 co2 sensor</td>
       <td>1</td>
-      <td>$30</td>
-      <td>$30</td>
+      <td>30</td>
+      <td>30</td>
     </tr>
     <tr>
       <td>Alicat Scientific MC Series flow meter</td>
       <td>1</td>
-      <td>$200</td>
-      <td>$200</td>
+      <td>200</td>
+      <td>200</td>
     </tr>
     <tr>
       <td>Dispensing Nozzle</td>
       <td>1</td>
-      <td>$40</td>
-      <td>$40</td>
+      <td>40</td>
+      <td>40</td>
     </tr>
     <tr>
       <td>Burkert 6011 valve</td>
       <td>1</td>
-      <td>$80</td>
-      <td>$80</td>
+      <td>80</td>
+      <td>80</td>
     </tr>
     <tr>
       <td>Siemens Coriolis Flowmeter SITRANS FC430 Flowmeter</td>
       <td>3</td>
-      <td>$300</td>
-      <td>$900</td>
+      <td>300</td>
+      <td>900</td>
     </tr>
         <tr>
       <td colspan="3" style="text-align:end;"><strong>Total</strong></td>
-      <td><strong>$10,540</strong></td>
+      <td><strong>10,540</strong></td>
     </tr>
   </tbody>
 </table>
@@ -813,50 +825,50 @@ During this process, Tank B continuously pumps the solution to the vertical farm
         <tr>
             <th>Component</th>
             <th>Quantity</th>
-            <th>Unit Price</th>
-            <th>Total</th>
+            <th>Unit Price (₦)</th>
+            <th>Total (₦)</th>
         </tr>
     </thead>
     <tbody>
         <tr>
             <td>120m 1 inch PVC pipe</td>
             <td>50</td>
-            <td>₦2,200</td>
-            <td>₦110,000</td>
+            <td>2,200</td>
+            <td>110,000</td>
         </tr>
         <tr>
             <td>40m 1/2 inch PVC pipe</td>
             <td>15</td>
-            <td>₦1,800</td>
-            <td>₦27,000</td>
+            <td>1,800</td>
+            <td>27,000</td>
         </tr>
         <tr>
             <td>Stainless steel 2mm</td>
             <td>10</td>
-            <td>₦150,000</td>
-            <td>₦1,500,000</td>
+            <td>150,000</td>
+            <td>1,500,000</td>
         </tr>
         <tr>
             <td>Hollow Quad Pipe (Stainless 50 X 20 X 2 mm)</td>
             <td>4</td>
-            <td>₦50,000</td>
-            <td>₦200,000</td>
+            <td>50,000</td>
+            <td>200,000</td>
         </tr>
         <tr>
             <td>Hollow Circular Pipe (Stainless)</td>
             <td>4</td>
-            <td>₦25,000</td>
-            <td>₦100,000</td>
+            <td>25,000</td>
+            <td>100,000</td>
         </tr>
         <tr>
             <td>Labour + fixtures</td>
             <td>1</td>
-            <td>₦500,000</td>
-            <td>₦500,000</td>
+            <td>500,000</td>
+            <td>500,000</td>
         </tr>
         <tr>
             <td colspan="3" style="text-align:end;"><strong>Total</strong></td>
-            <td><strong>₦2,437,000</strong></td>
+            <td><strong>2,437,000</strong></td>
         </tr>
     </tbody>
 </table>
@@ -916,8 +928,8 @@ The gutter framework, made of stainless steel, will support the plant beds and e
             <th>Description</th>
             <th>Specification</th>
             <th>Qty</th>
-            <th>Unit Price</th>
-            <th>Amount</th>
+            <th>Unit Price (₦)</th>
+            <th>Amount (₦)</th>
         </tr>
     </thead>
     <tbody>
@@ -1007,7 +1019,7 @@ The HVAC (Heating, Ventilation, and Air Conditioning) system will regulate tempe
 ## 6.1 Cost Breakdown
 
 <table>
-<caption style=' text-align: center; margin-bottom: 5px; margin-top: 20px;'> <b>Table 7:</b> Cost breakdown for the HVAC system (excluding CO2 integration)</caption>
+<caption style=' text-align: center; margin-bottom: 5px; margin-top: 20px;'> <b>Table 8:</b> Cost breakdown for the HVAC system (excluding CO2 integration)</caption>
     <tr>
         <th>Item</th>
         <th>Model</th>
@@ -1032,8 +1044,8 @@ The HVAC (Heating, Ventilation, and Air Conditioning) system will regulate tempe
         <td>1</td>
         <td>Trane/20HP TVR 7G Modular Cooling Only</td>
         <td>56.00</td>
-        <td>$7,011.49</td>
-        <td>$7,011.49</td>
+        <td>7,011.49</td>
+        <td>7,011.49</td>
     </tr>
         <tr>
         <td>&nbsp;</td>
@@ -1050,8 +1062,8 @@ The HVAC (Heating, Ventilation, and Air Conditioning) system will regulate tempe
         <td>1</td>
         <td>Trane TVR 7G Compact Four-way Cassette Unit</td>
         <td>2.80</td>
-        <td>$395.78</td>
-        <td>$395.78</td>
+        <td>395.78</td>
+        <td>395.78</td>
     </tr>
     <tr>
         <td>3</td>
@@ -1059,8 +1071,8 @@ The HVAC (Heating, Ventilation, and Air Conditioning) system will regulate tempe
         <td>1</td>
         <td>Trane TVR 7G Four-way Cassette Unit</td>
         <td>11.20</td>
-        <td>$704.10</td>
-        <td>$704.10</td>
+        <td>704.10</td>
+        <td>704.10</td>
     </tr>
     <tr>
         <td>4</td>
@@ -1068,8 +1080,8 @@ The HVAC (Heating, Ventilation, and Air Conditioning) system will regulate tempe
         <td>3</td>
         <td>Trane TVR 7G Four-way Cassette Unit</td>
         <td>16.00</td>
-        <td>$880.91</td>
-        <td>$2,642.74</td>
+        <td>880.91</td>
+        <td>2,642.74</td>
     </tr>
         <tr>
         <td>&nbsp;</td>
@@ -1086,8 +1098,8 @@ The HVAC (Heating, Ventilation, and Air Conditioning) system will regulate tempe
         <td>1</td>
         <td>Trane/IDU Y Joint, kW < 22.4</td>
         <td>-</td>
-        <td>$34.69</td>
-        <td>$34.69</td>
+        <td>34.69</td>
+        <td>34.69</td>
     </tr>
     <tr>
         <td>6</td>
@@ -1095,8 +1107,8 @@ The HVAC (Heating, Ventilation, and Air Conditioning) system will regulate tempe
         <td>3</td>
         <td>Trane/IDU Y Joint, 33≤ KW < 104</td>
         <td>-</td>
-        <td>$69.96</td>
-        <td>$209.87</td>
+        <td>69.96</td>
+        <td>209.87</td>
     </tr>
     <tr>
         <td colspan="6" style="text-align:right;"><b>Total Price (USD)</b></td>
@@ -1104,15 +1116,15 @@ The HVAC (Heating, Ventilation, and Air Conditioning) system will regulate tempe
     </tr>
     <tr>
         <td colspan="6" style="text-align:right;"><b>Total Price (NGN)</b></td>
-        <td>NGN 17,597,866.00</td>
+        <td>₦17,597,866.00</td>
     </tr>
     <tr>
         <td colspan="6" style="text-align:right;"><b>VAT (7.5%)</b></td>
-        <td>NGN 1,319,839.95</td>
+        <td>₦1,319,839.95</td>
     </tr>
     <tr>
-        <td colspan="6" style="text-align:right;"><b>Grand Total (NGN + VAT)</b></td>
-        <td>NGN 18,917,705.95</td>
+        <td colspan="6" style="text-align:right;"><b>Grand Total</b></td>
+        <td>₦18,917,705.95</td>
     </tr>
 
 </table>
@@ -1124,12 +1136,44 @@ The HVAC (Heating, Ventilation, and Air Conditioning) system will regulate tempe
 The specialized lighting system will provide the correct spectrum of infrared and visible light to promote optimal plant growth. The lights will be energy-efficient and adjustable to meet the needs of different crops.
 
 ## 7.1 Cost Breakdown
-| Item                     | Quantity | Unit Cost (USD) | Total Cost (USD) |
-|--------------------------|----------|-----------------|------------------|
-| LED Grow Lights          |          |                 |                  |
-| Light Controllers        |          |                 |                  |
-| Installation Labor       |          |                 |                  |
-| **Total**                |          |                 |                  |
+
+<table >
+<caption style=' text-align: center; margin-bottom: 5px; margin-top: 20px;'> <b>Table 10:</b> LED lights from philips</caption>
+    <tr>
+        <th>Component</th>
+        <th>Quantity</th>
+        <th>Unit Price ($)</th>
+        <th>Amount ($)</th>
+    </tr>
+    <tr>
+        <td>GreenPower LED production module</td>
+        <td>42</td>
+        <td>500</td>
+        <td>21,000</td>
+    </tr>
+    <tr>
+        <td>Ethernet Switch (24-port)</td>
+        <td>2</td>
+        <td>100</td>
+        <td>200</td>
+    </tr>
+    <tr>
+        <td>Ethernet Cables</td>
+        <td>42</td>
+        <td>7</td>
+        <td>294</td>
+    </tr>
+    <tr>
+        <td>GrowWise Control System (optional)</td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+    </tr>
+    <tr>
+        <th colspan="3" style="text-align:right;"><b>Total</b></th>
+        <th>21,494</th>
+    </tr>
+</table>
 
 
 ---
@@ -1139,7 +1183,7 @@ The specialized lighting system will provide the correct spectrum of infrared an
 The selection of personnel for the vertical farm is based on a balance of technical expertise, agricultural knowledge, and operational efficiency. Engineers specializing in fabrication, control systems, and electrical work ensure the structural integrity, automation, and power management of the farm.
 
 <table >
-<caption style=' text-align: center; margin-bottom: 5px; margin-top: 20px;'> <b>Table 9:</b> Specialized Employee's projected salaries for the duration of 6 months</caption>
+<caption style=' text-align: center; margin-bottom: 5px; margin-top: 20px;'> <b>Table 10:</b> Specialized Employee's projected salaries for the duration of 6 months</caption>
     <thead>
         <tr>
             <th>Employee Role</th>
@@ -1210,7 +1254,7 @@ The selection of personnel for the vertical farm is based on a balance of techni
 # 8. Summary of Total Costs
 
 <table >
-<caption style=' text-align: center; margin-bottom: 5px; margin-top: 20px;'> <b>Table 10:</b> Budget summary overview</caption>
+<caption style=' text-align: center; margin-bottom: 5px; margin-top: 20px;'> <b>Table 11:</b> Budget summary overview</caption>
     <tr>
         <th>Section</th>
         <th>Details</th>
@@ -1226,7 +1270,7 @@ The selection of personnel for the vertical farm is based on a balance of techni
     <tr>
         <td>furniture and utility</td>
         <td>-</td>
-        <td>5,333,000</td>
+        <td>6,021,000</td>
     </tr>
     <tr>
         <td rowspan="3">Nutrient Delivery System</td>
@@ -1259,7 +1303,7 @@ The selection of personnel for the vertical farm is based on a balance of techni
     <tr>
         <td>Specialized Lighting</td>
         <td></td>
-        <td>10,000</td>
+        <td>21,494</td>
         <td>-</td>
     </tr>
     <tr>
@@ -1271,8 +1315,8 @@ The selection of personnel for the vertical farm is based on a balance of techni
     <tr>
         <th style="text-align:right;">Total</th>
         <th></th>
-        <th>40,422</th>
-        <th>89,065,300</th>
+        <th>51,916</th>
+        <th> 89,753,300 </th>
     </tr>
 </table>
 
