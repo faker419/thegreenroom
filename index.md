@@ -571,11 +571,10 @@ During this process, Tank B continuously pumps the solution to the vertical farm
 | **Reynolds Number (Re)**: 1,320.73 (Laminar Flow) | - Elevation: 3 m |
 | | **Total Head Loss**: 4.69 m |
 | **Pump Specifications**: | **Pump Efficiency**: 80% |
-| - Power: 18.96 W | |
+| **Power: 18.96 W** | |
 
 
 
-</div>
 
 
   ### Precautions
