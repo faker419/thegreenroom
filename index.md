@@ -1312,6 +1312,8 @@ The selection of personnel for the vertical farm is based on a balance of techni
     </tr>
 </table>
 
+with the current rate of Dollar to Naira at 1,600 as of the time of writing, the **Grand Total** is thus **$108,011.8** 
+ 
 
 ---
 
