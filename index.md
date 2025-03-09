@@ -43,7 +43,7 @@ The building structure will be constructed from the ground up, designed to accom
   <div>
   <p >
     <figcaption><b>Figure 1:</b> Site (Top view) </figcaption>
-    <img src="darwings\pilot renders\topview_marked.JPG"  style="width: 90%; height: auto;">
+    <img src="darwings\pilot renders\topview_marked.jpg"  style="width: 90%; height: auto;">
   </p>
   </div>
 </div>
@@ -53,7 +53,7 @@ The building structure will be constructed from the ground up, designed to accom
   <div>
   <p >
     <figcaption><b>Figure 2:</b> Structural Foundation </figcaption>
-    <img src="darwings\pilot renders\foundation.JPG"  style="width: 90%; height: auto;">
+    <img src="darwings\pilot renders\foundation.jpg"  style="width: 90%; height: auto;">
   </p>
   </div>
 </div>
@@ -63,7 +63,7 @@ The building structure will be constructed from the ground up, designed to accom
   <div>
   <p >
     <figcaption><b>Figure 3:</b> Structural columns </figcaption>
-    <img src="darwings\pilot renders\columns.JPG"  style="width: 90%; height: auto;">
+    <img src="darwings\pilot renders\columns.jpg"  style="width: 90%; height: auto;">
   </p>
   </div>
 </div>
@@ -74,7 +74,7 @@ The building structure will be constructed from the ground up, designed to accom
   <div>
   <p >
     <figcaption><b>Figure 4:</b> Overhead Slab </figcaption>
-    <img src="darwings\pilot renders\overhead_slab.JPG"  style="width: 90%; height: auto;">
+    <img src="darwings\pilot renders\overhead_slab.jpg"  style="width: 90%; height: auto;">
   </p>
   </div>
 </div>
