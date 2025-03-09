@@ -224,7 +224,7 @@ The building structure will be constructed from the ground up, designed to accom
   </tr>
 
   <tr>
-    <td rowspan="7"><b>Cement</b></td>
+    <td rowspan="8"><b>Cement</b></td>
     <td>Blockwork</td><td>Bags</td><td>140</td><td>9,500</td><td>1,330,000</td>
   </tr>
   <tr>
@@ -244,6 +244,9 @@ The building structure will be constructed from the ground up, designed to accom
   </tr>
   <tr>
     <td>Casting of Plaster</td><td>Bags</td><td>200</td><td>9,500</td><td>1,900,000</td>
+  </tr>
+  <tr>
+    <td>External Plaster</td><td>Bags</td><td>200</td><td>9,500</td><td>1,900,000</td>
   </tr>
   <tr>
     <td><b>Marine Boards</b></td>
