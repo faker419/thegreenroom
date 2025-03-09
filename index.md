@@ -11,33 +11,34 @@ mermaid: true
 
 
 
-## Table of content
+## Table of Content
 
 1. **Introduction**  
 2. **Budget Overview**  
 3. **Building Structure**  
-   3.1 Site Layout  
-   3.2 Cost Breakdown  
+    - 3.1 Site Layout  
+    - 3.2 Cost Breakdown  
 4. **Vertical Farm Nutrient Delivery System**  
-   4.1 System Overview  
-   4.2 Key Design Considerations  
-      4.2.1 Nutrient Solution Preparation  
-      4.2.2 Cycle Timing and Efficiency  
-      4.2.3 Tank Sizing and Engineering  
-      4.2.4 Pipe Sizing and Pressure Loss  
-   4.3 Logic Control Schema  
-   4.4 Cost Breakdown  
+    - 4.1 System Overview  
+    - 4.2 Key Design Considerations  
+        - 4.2.1 Nutrient Solution Preparation  
+        - 4.2.2 Cycle Timing and Efficiency  
+        - 4.2.3 Tank Sizing and Engineering  
+        - 4.2.4 Pipe Sizing and Pressure Loss  
+    - 4.3 Logic Control Schema  
+    - 4.4 Cost Breakdown  
 5. **Gutter Framework**  
-   5.1 Cost Breakdown  
+    - 5.1 Cost Breakdown  
 6. **HVAC System**  
-   6.1 Cost Breakdown  
+    - 6.1 Cost Breakdown  
 7. **Specialized Lighting System**  
-   7.0 Description  
-   7.1 Cost Breakdown  
+    - 7.0 Description  
+    - 7.1 Cost Breakdown  
 8. **Employees**  
-   8.0 Description  
+    - 8.0 Description  
 9. **Summary of Total Costs**  
 10. **Conclusion**  
+
 
 # 1. Introduction
 This report outlines the budget for the pilot study of a vertical farm project. The project involves the construction of a vertical farming facility from the ground up, incorporating advanced systems for nutrient delivery, environmental control, and lighting. The goal of this pilot study is to validate the feasibility and efficiency of the proposed design.
