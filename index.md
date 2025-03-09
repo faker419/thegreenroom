@@ -35,7 +35,7 @@ mermaid: true
     - 7.0 Description  
     - 7.1 Cost Breakdown  
 8. **Employees**  
-    - 8.0 Description  
+    - 8.1 Cost Breakdown  
 9. **Summary of Total Costs**  
 10. **Conclusion**  
 
@@ -1177,10 +1177,11 @@ The specialized lighting system will provide the correct spectrum of infrared an
 
 ---
 
-## 7.0 Employees
+## 8.0 Employees
 ### Description
 The selection of personnel for the vertical farm is based on a balance of technical expertise, agricultural knowledge, and operational efficiency. Engineers specializing in fabrication, control systems, and electrical work ensure the structural integrity, automation, and power management of the farm.
 
+## 8.1 Cost Breakdown
 <table >
 <caption style=' text-align: center; margin-bottom: 5px; margin-top: 20px;'> <b>Table 10:</b> Specialized Employee's projected salaries for the duration of 6 months</caption>
     <thead>
@@ -1250,7 +1251,7 @@ The selection of personnel for the vertical farm is based on a balance of techni
 </table>
 
 
-# 8. Summary of Total Costs
+# 9 Summary of Total Costs
 
 <table >
 <caption style=' text-align: center; margin-bottom: 5px; margin-top: 20px;'> <b>Table 11:</b> Budget summary overview</caption>
@@ -1324,7 +1325,7 @@ The selection of personnel for the vertical farm is based on a balance of techni
 
 ---
 
-# 9. Conclusion
+# 10 Conclusion
 This budget report provides a detailed breakdown of the costs associated with the vertical farm pilot study. The proposed systems and structures are designed to ensure efficiency, durability, and scalability. The next steps involve finalizing the budget, securing funding, and proceeding with the construction and implementation of the pilot study.
 
 ---
