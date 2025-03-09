@@ -881,29 +881,29 @@ The gutter framework, made of stainless steel, will support the plant beds and e
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px; text-align: center;">
   <div>
     <figcaption>Figure 15: Front view of quartered gutter frame </figcaption>
-    <img src="darwings\front_view.jpg" style="width: 80%; height: auto;">
+    <img src="figures\pilot renders\front_view.jpg" style="width: 80%; height: auto;">
   </div>
   <div>
     <figcaption>Figure 16: Side view of quartered gutter frame</figcaption>
-    <img src="darwings\side_view.jpg" style="width: 80%; height: auto;">
+    <img src="figures\pilot renders\side_view.jpg" style="width: 80%; height: auto;">
   </div>
 </div>
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px; text-align: center;">
   <div>
     <figcaption>Figure 17: Isometric view of gutter frame</figcaption>
-    <img src="darwings\isometric_view.jpg" style="width: 80%; height: auto;">
+    <img src="figures\pilot renders\isometric_view.jpg" style="width: 80%; height: auto;">
   </div>
   <div>
     <figcaption>Figure 18: Front view of gutter frame</figcaption>
-    <img src="darwings\side_view_full.jpg" style="width: 80%; height: auto;">
+    <img src="figures\pilot renders\side_view_full.jpg" style="width: 80%; height: auto;">
   </div>
 </div>
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px; text-align: center;">
   <div>
     <figcaption>Figure 19: gutter frame final render</figcaption>
-    <img src="darwings\FINAL_1.jpg" style="width: 80%; height: auto;">
+    <img src="figures\pilot renders\FINAL_1.jpg" style="width: 80%; height: auto;">
   </div>
 </div>
 
