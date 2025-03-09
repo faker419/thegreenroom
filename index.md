@@ -222,7 +222,11 @@ The building structure will be constructed from the ground up, designed to accom
     <td><b>Blocks</b></td>
     <td></td><td>Units</td><td>12,522</td><td>700</td><td>8,765,400</td>
   </tr>
-
+  <tr>
+    <td><b>Reinforcements</b></td>
+    <td>Y12 for Slab</td>
+    <td>Units</td><td>420</td><td>12,300</td><td>5,166,000</td>
+  </tr>
   <tr>
     <td rowspan="8"><b>Cement</b></td>
     <td>Blockwork</td><td>Bags</td><td>140</td><td>9,500</td><td>1,330,000</td>
