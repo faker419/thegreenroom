@@ -442,7 +442,7 @@ During this process, Tank B continuously pumps the solution to the vertical farm
     <div>
     <p >
       <figcaption><b>Figure 9:</b> Tanks A and B final render </figcaption>
-      <img src="C:\wamp64\www\thegreenroom\darwings\tanks\tanks_final_v2.jpg"  style="width: 90%; height: auto;">
+      <img src="figures\pilot renders\sub module\tanks_final_v2.jpg"  style="width: 90%; height: auto;">
     </p>
     </div>
   </div>
