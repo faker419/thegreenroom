@@ -1130,7 +1130,7 @@ The specialized lighting system will provide the correct spectrum of infrared an
 ## 7.1 Cost Breakdown
 
 <table >
-<caption style=' text-align: center; margin-bottom: 5px; margin-top: 20px;'> <b>Table 10:</b> LED lights from philips</caption>
+<caption style=' text-align: center; margin-bottom: 5px; margin-top: 20px;'> <b>Table 9:</b> LED lights from philips</caption>
     <tr>
         <th>Component</th>
         <th>Quantity</th>
