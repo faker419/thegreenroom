@@ -32,12 +32,15 @@ mermaid: true
 6. **HVAC System**  
     - 6.1 Cost Breakdown  
 7. **Specialized Lighting System**  
-    - 7.0 Description  
     - 7.1 Cost Breakdown  
-8. **Employees**  
-    - 8.0 Description  
-9. **Summary of Total Costs**  
-10. **Conclusion**  
+8. **Overheads**  
+    - 8.1 Cost Breakdown  
+9. **Nutrient solution compounds**  
+    - 9.1 Nutrient Requirements/ Fertilization
+    - 9.2 Cost Breakdown 
+10. **Profit Projections**
+11. **Summary of Total Costs**  
+12. **Conclusion**  
 
 
 # 1. Introduction
@@ -52,9 +55,11 @@ The budget is divided into the following main sections:
 **III. Gutter Framework**
 **IV. HVAC System**
 **V. Specialized Lighting System**
-**VI. Employees**
+**VI. Overheads**
+**VII. Nutrient solution compounds**
 
-Each section includes estimated costs, descriptions of components, and justifications for the expenses.
+
+Each section includes estimated costs, descriptions of components, and justifications for the expense.
 
 ---
 
@@ -63,6 +68,8 @@ Each section includes estimated costs, descriptions of components, and justifica
 The building structure will be constructed from the ground up, designed to accommodate vertical farming systems. It will include reinforced foundations, walls, and roofing to support the weight of the farming infrastructure and ensure durability.
 
 ## 3.1 Site layout
+
+
 
 <div style="display: flex; justify-content: center; align-items: center; text-align: center;">
   <div>
@@ -872,6 +879,16 @@ During this process, Tank B continuously pumps the solution to the vertical farm
     </tbody>
 </table>
 
+- water from the ground tends to be contaminated with all kind of natural salts, molecules, and elements. To acquire neutral water, the water will pass through a reverse osmosis process with the help of the purification machine shown in **figure 14** below. The price varies at about **₦4,000,000**.
+
+<div style="display: flex; justify-content: center; align-items: center; gap: 10px; text-align: center;">
+  <div>
+    <figcaption><b>Figure 14:</b> Reverse Osmosis System</figcaption>
+    <img src="figures\Reverse-Osmosis-System.jpg"  style="width: 90%; height: auto;">
+  </p>
+  </div>
+</div>
+
 
 
 ---
@@ -880,7 +897,7 @@ During this process, Tank B continuously pumps the solution to the vertical farm
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px; text-align: center;">
   <div>
-    <figcaption><b>Figure 14:</b> cycle duration against tanks size requirements (left) and Flow rate (right) when mixing time is set to 5 minutes </figcaption>
+    <figcaption><b>Figure 15:</b> cycle duration against tanks size requirements (left) and Flow rate (right) when mixing time is set to 5 minutes </figcaption>
     <img src="figures\pilot renders\sub module\0000.jpg"  style="width: 90%; height: auto;">
   </p>
   </div>
@@ -891,29 +908,29 @@ The gutter framework, made of stainless steel, will support the plant beds and e
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px; text-align: center;">
   <div>
-    <figcaption>Figure 15: Front view of quartered gutter frame </figcaption>
+    <figcaption>Figure 16: Front view of quartered gutter frame </figcaption>
     <img src="figures\pilot renders\front_view.jpg" style="width: 80%; height: auto;">
   </div>
   <div>
-    <figcaption>Figure 16: Side view of quartered gutter frame</figcaption>
+    <figcaption>Figure 17: Side view of quartered gutter frame</figcaption>
     <img src="figures\pilot renders\side_view.jpg" style="width: 80%; height: auto;">
   </div>
 </div>
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px; text-align: center;">
   <div>
-    <figcaption>Figure 17: Isometric view of gutter frame</figcaption>
+    <figcaption>Figure 18: Isometric view of gutter frame</figcaption>
     <img src="figures\pilot renders\isometric_view.jpg" style="width: 80%; height: auto;">
   </div>
   <div>
-    <figcaption>Figure 18: Front view of gutter frame</figcaption>
+    <figcaption>Figure 19: Front view of gutter frame</figcaption>
     <img src="figures\pilot renders\side_view_full.jpg" style="width: 80%; height: auto;">
   </div>
 </div>
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px; text-align: center;">
   <div>
-    <figcaption>Figure 19: gutter frame final render</figcaption>
+    <figcaption>Figure 20: gutter frame final render</figcaption>
     <img src="figures\pilot renders\FINAL_1.jpg" style="width: 80%; height: auto;">
   </div>
 </div>
@@ -1130,7 +1147,7 @@ The HVAC (Heating, Ventilation, and Air Conditioning) system will regulate tempe
 
 ---
 
-## 7.0 Specialized Lighting System
+# 7.0 Specialized Lighting System
 ### Description
 The specialized lighting system will provide the correct spectrum of infrared and visible light to promote optimal plant growth. The lights will be energy-efficient and adjustable to meet the needs of different crops.
 
@@ -1177,9 +1194,11 @@ The specialized lighting system will provide the correct spectrum of infrared an
 
 ---
 
-## 7.0 Employees
+# 8.0 Overheads
 ### Description
 The selection of personnel for the vertical farm is based on a balance of technical expertise, agricultural knowledge, and operational efficiency. Engineers specializing in fabrication, control systems, and electrical work ensure the structural integrity, automation, and power management of the farm.
+
+## 8.1 Cost Breakdown
 
 <table >
 <caption style=' text-align: center; margin-bottom: 5px; margin-top: 20px;'> <b>Table 10:</b> Specialized Employee's projected salaries for the duration of 6 months</caption>
@@ -1249,11 +1268,201 @@ The selection of personnel for the vertical farm is based on a balance of techni
     </tbody>
 </table>
 
+# 9.0 Nutrient solution compounds
+### Description
+in the following, we shall break down the required compounds for the production of lettuce and use the data to find a suitable fertilizer
 
-# 8. Summary of Total Costs
+## 9.1 Nutrient Requirements/ Fertilization
+
+Lettuce requires a well-balanced nutrient solution containing:
+- Nitrogen (N) - for leafy growth
+- Phosphorus (P) - for root development
+- Potassium (K) - for plant vigor and disease resistance
+- Calcium (Ca) - to prevent tip burn
+- Magnesium (Mg) - essential for chlorophyll production
+- Micronutrients such as iron (Fe), zinc (Zn), manganese (Mn), and boron (B)
+- The EC (Electrical Conductivity) of the nutrient solution should be maintained at 1.2 - 2.0 mS/cm, and the pH should be adjusted to 5.5 - 6.5 for optimal nutrient uptake.
 
 <table >
-<caption style=' text-align: center; margin-bottom: 5px; margin-top: 20px;'> <b>Table 11:</b> Budget summary overview</caption>
+ <caption style=' text-align: center; margin-bottom: 5px; margin-top: 20px;'> <b>Table 11:</b>  Macro-nutrient composition and concentrations detected in supplemental water and a nutrient solution with EC of 1.8 mS·cm−1 and pH of 5.8 for hydroponic production of Butterhead lettuce.</caption>
+    <tr>
+        <th>Parameter</th>
+        <th>Supplemental water (ppm)</th>
+        <th>Nutrient solution (ppm)</th>
+    </tr>
+    <tr>
+        <td>N</td>
+        <td>0.15</td>
+        <td>129.18</td>
+    </tr>
+    <tr>
+        <td>P</td>
+        <td>0.31</td>
+        <td>48.32</td>
+    </tr>
+    <tr>
+        <td>K</td>
+        <td>4.81</td>
+        <td>183.23</td>
+    </tr>
+    <tr>
+        <td>S</td>
+        <td>8.77</td>
+        <td>52.10</td>
+    </tr>
+    <tr>
+        <td>Ca</td>
+        <td>37.67</td>
+        <td>136.52</td>
+    </tr>
+    <tr>
+        <td>Mg</td>
+        <td>10.54</td>
+        <td>32.68</td>
+    </tr>
+</table>
+
+
+
+Based on the **Nitrogen (N), Phosphorus (P), and Potassium (K) ratios** obtained from the practical data in **Table 11**, an **NPK ratio** of **129.18 | 48.32 | 183.23** or **2.673 | 1 | 3.794** was determined. Given the availability of water-soluble fertilizers suitable for hydroponics, a standard **3 | 1 | 4** ratio can be used.  
+
+Each head of lettuce requires **5 liters** of water throughout its life cycle. In the pilot-scale project, **2,450 heads** of lettuce are evenly distributed over **75 m²**, resulting in a total water usage of **12,250 liters**.  
+
+Several commercially available fertilizers meet the required NPK ratio, with a **maximum cost of $20 per kg**, including **Sulfur (S), Calcium (Ca), Magnesium (Mg), and various micronutrients**.  
+
+**Note:** The fertilizer referenced represents the highest quality and most premium option. For the full-scale project, a **custom-blended formulation** will be produced in-house by the **resident professor of agriculture**, at a cost approximately **five times lower**.  
+
+Given the total water requirement, the amount of fertilizer needed is:  
+12,250 L ÷ 1,000 = 12.25 kg  ==> 13kg
+
+## 9.2 Cost Breakdown
+
+- The total fertilizer cost at the premium price point would be:  
+<p style="text-align: center;">13 Kg × 20 $/Kg = <strong>USD 260 </strong></p>
+
+- 2475 lettuce seed are required. the most suitable size available on the market is the 5000 seed bag of premium Salanova Expertise RZ lettuce at <strong>USD 280</strong>.
+
+
+- The cost of 250 Rockwool Plugs is USD 10. 13 packs should suffice with a little extra for contingency, totaling  **USD 130**
+
+# 10. Profit Projections
+
+### Description
+
+In the following analysis, the projected profits for both the pilot-scale and main-scale projects will be estimated by considering four key operating costs:
+
+- **Plant seeds and nutrients** (with Neutralizers)
+- **Electricity**
+- **Overheads**
+
+Since most of these costs have already been estimated, the next step is simply to compile the figures and distribute them across the 75 m² of lettuce production in the pilot-scale setup.
+
+**Note:** The attached video (also available <a href="figures\static_vs_dynamic.mp4" download="static_vs_dynamic.mp4">Here</a>) illustrates the key differences between batch-based lettuce production (pilot scale) and a conveyor belt system (main scale). While batch production is ahead by one complete plant life cycle, this advantage is outweighed by logistical benefits. A continuous daily supply of smaller lettuce increments, rather than a full harvest every 42 days, simplifies sales operations and optimizes storage space.
+Additionally, using conveyor systems in series allows for dynamic spacing between NFT gutters. Initially, the gutters are placed closely together since young lettuce plants require minimal space. As the conveyor moves forward, the spacing gradually increases, ensuring optimal use of the growing area. In contrast, static batch production requires gutters to be positioned at their maximum spacing from the start, even when the plants are still in the early growth stages. This makes the conveyor system a more space-efficient approach.
+
+#### Plant seeds and nutrients
+- The cost of 5000 seed bag of premium Salanova Expertise RZ lettuce is USD 280 , with 33 heads per square meter, the price contribution per m² is **USD 1.848**.
+
+- The cost of 250 Rockwool Plugs is USD 10, thus the price per head is $0.04. with 33 heads per m², the contributed cost stands at **USD 1.32**
+
+- The cost estimate for of th far end highest quality grade pre-made fertilizer came to $245 for 2,450 Lettuce heads encompassing 75 m², bringing th price per area to **USD 3.267**.
+
+#### Electricity
+
+##### Total Power Consumption per Hour:
+- Each LED light consumes 88 watts.
+- Total power for 42 lights:
+
+<p style="text-align: center;">42 lights × 88 watts = 3,696 watts = 3.696 kW</p>
+
+
+##### Daily energy consumption:
+- The lights run for 14 hours per day.
+- Daily energy consumption:
+
+<p style="text-align: center;">3.696 kW × 14 hours = 51.744 kWh/day</p>
+
+##### Total Energy Consumption Over 42 Days
+- Total energy consumption:
+
+<p style="text-align: center;">51.744 kWh/day × 42 days = 2,173.248 kWh</p>
+
+##### Total Electricity Cost
+- Electricity rate: ₦209.5/kWh.
+-  Total cost:
+
+<p style="text-align: center;">2,173.248 kWh × 209.5 ₦/kWh = <Strong>₦ 455,295.46</Strong></p>
+
+<p style="text-align: center;">Price per Area = <Strong>₦ 6,070.6</Strong></p>
+
+#### Overheads
+The Employee salary above wont chang much since during the main project since these are specialized personnel while the rest of the staff are mostly Labourers or in the security team. for safety purposes, 100% cost shall still be added on top of the current monthly expenditure of ₦ 1,590,000, bringing the sum of salaries per month to ₦ 3,180,000 or per a complete cycle (48 days) to **₦ 5,088,000**.
+
+- The are used here will be the total area of the main project mentioned above at 25,000 m² 
+<p style="text-align: center;">Price per Area (scaled)= <Strong>₦ 203.52</Strong></p>
+
+### Summary
+
+<table >
+<caption style=' text-align: center; margin-bottom: 5px; margin-top: 20px;'> <b>Table 12:</b> Budget summary overview</caption>
+    <tr>
+        <th rowspan="2">Section</th>
+        <th rowspan="2">Sub-Section</th>
+        <th>Cost per m²</th>
+        <th></th>
+    </tr>
+    <tr>
+        <th>USD ($)</th>
+        <th>NGN (₦)</th>
+    </tr>
+    <tr>
+        <td rowspan="3">Plant seeds and nutrients</td>
+        <td>Premium Salanova Expertise RZ seeds</td>
+        <td>1.848</td>
+        <td>-</td>
+    </tr>
+    <tr>
+        <td>Rockwool Plugs</td>
+        <td>1.32</td>
+        <td>-</td>
+    </tr>
+    <tr>
+        <td>Premium Fertilizer</td>
+        <td>3.267</td>
+        <td>-</td>
+    </tr>
+    <tr>
+        <td>Electicity</td>
+        <td>Kedco</td>
+        <td>-</td>
+        <td>6,070.6</td>
+    </tr>
+    <tr>
+        <td>Overheads</td>
+        <td>Salaries</td>
+        <td>-</td>
+        <td>203.52</td>
+    </tr>
+    <tr>
+      <td colspan="2" style="text-align:center;"><strong>Total</strong></td>
+      <td><strong>6.435</strong></td>
+      <td><strong>6,274.12</strong></td>
+    </tr>
+</table>
+
+- With the current Exchange rate of 1,500 as of the time of writing,the total NGN cost per m² stands at ₦ 15,926.62, or ₦ 482.62 per Lettuce head.
+- on the other end, during production when we are fully reliant on solar energy, the Electricity bill could very well be nill, and with our own fertilizer mixture at 5x lower in terms of cost, final cost per m² will become ₦ 5,935.62, or **₦ 179.87** per Premium Lettuce head.
+
+### Projections
+
+- with a base cost of **₦ 179.87** per Lettuce head, adding a redundancy of 25% for Logistics and maintenance, we arrive at a usable cost estimate of **₦224.8** per head.
+- The retail price of local lettuce varies at about ₦500, with retail atr about ₦400. lets assume the company is willing to sell our premium product at the same retail price so we can penetrate the market, profit is about **₦175.2** or **43.8%**.
+- The large scales total conveyor system is Exactly 25,000 m² with a  daily production of 1,240 NFT gutters and 33 heads per gutter thus the total profit per month is **₦215,075,520** or **$143,383.68**. 
+
+# 11. Summary of Total Costs
+
+<table >
+<caption style=' text-align: center; margin-bottom: 5px; margin-top: 20px;'> <b>Table 12:</b> Budget summary overview</caption>
     <tr>
         <th>Section</th>
         <th>Details</th>
@@ -1272,7 +1481,7 @@ The selection of personnel for the vertical farm is based on a balance of techni
         <td>6,021,000</td>
     </tr>
     <tr>
-        <td rowspan="3">Nutrient Delivery System</td>
+        <td rowspan="4">Nutrient Delivery System</td>
         <td>Sensors and Actuators Fixed costs</td>
         <td>8,058</td>
         <td>-</td>
@@ -1286,6 +1495,11 @@ The selection of personnel for the vertical farm is based on a balance of techni
         <td>Stainless steel tank construction</td>
         <td>-</td>
         <td>2,437,000</td>
+    </tr>
+    <tr>
+        <td>Reverse Osmosis System</td>
+        <td>-</td>
+        <td>4,000,000</td>
     </tr>
     <tr>
         <td>Gutter Framework</td>
@@ -1311,20 +1525,29 @@ The selection of personnel for the vertical farm is based on a balance of techni
         <td>-</td>
         <td>7,000,000</td>
     </tr>
+      <tr>
+        <td>Nutrient solution compounds</td>
+        <td></td>
+        <td>670</td>
+        <td>-</td>
+    </tr>
     <tr>
         <th style="text-align:right;">Total</th>
         <th></th>
-        <th>51,916</th>
-        <th> 89,753,300 </th>
+        <th>52,586</th>
+        <th> 93,753,300 </th>
     </tr>
 </table>
 
-- With the current Exchange rate of 1,600 as of the time of writing, the **Grand Total** is thus __**$108,011.8**__ 
+- With the current Exchange rate of 1,500 as of the time of writing, the **Grand Total** is thus __**$115,088**__ 
 
 
 ---
 
-# 9. Conclusion
+# 12. Conclusion
 This budget report provides a detailed breakdown of the costs associated with the vertical farm pilot study. The proposed systems and structures are designed to ensure efficiency, durability, and scalability. The next steps involve finalizing the budget, securing funding, and proceeding with the construction and implementation of the pilot study.
+
+
+
 
 ---

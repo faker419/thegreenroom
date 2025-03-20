@@ -2,3 +2,6 @@ remote_theme: sighingnow/jekyll-gitbook
 toc:
     enabled: true
 
+nav:
+  - Pilot Study: index.md
+  - Project Plan: index_study.md

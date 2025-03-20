@@ -25,6 +25,7 @@ tables (version 1).xlsb.xlsx
 tank_sizing_and_flows_1.py
 tank_sizing_and_flows_2.py
 render.py
+production_sim.py
 _site/
 _draft/
 .jekyll-cache/
