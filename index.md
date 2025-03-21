@@ -9,9 +9,9 @@ mermaid: true
 
 **Name:** Issa Fares  **Date:** `2024-19-01`  **Contact:** faresissa22@gmail.com
 
+[toc]
 
-
-## Table of Content
+## Table of Contente
 
 1. **Introduction**  
 2. **Budget Overview**  
