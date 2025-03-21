@@ -8,11 +8,9 @@ layout: post
 mermaid: true
 ---
 
-[About Page](/index_study/)
 
 **Name:** Issa Fares  **Date:** `2024-19-01`  **Contact:** faresissa22@gmail.com
 
-[toc]
 
 ## Table of Content
 
