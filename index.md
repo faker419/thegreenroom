@@ -11,7 +11,7 @@ mermaid: true
 
 [toc]
 
-## Table of Contente
+## Table of Content
 
 1. **Introduction**  
 2. **Budget Overview**  
