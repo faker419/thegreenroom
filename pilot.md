@@ -1,6 +1,5 @@
 ---
 title: Vertical Farm Pilot Study - Budget Report
-permalink: /pilot/
 author: Issa Fares 
 date: 2024-19-01
 category: Jekyll
