@@ -1,5 +1,6 @@
 ---
 title: The Green Room
+permalink: /study/
 author: Issa Fares 
 date: 2024-19-01
 category: Jekyll
