@@ -1,3 +1,11 @@
+source "https://rubygems.org"
+
+# Match GitHub Pages' environment exactly
+gem "github-pages", group: :jekyll_plugins
+
+# Optional: For local Ruby 3.0+ support
+gem "webrick"
+'''
 # frozen_string_literal: true
 
 source "https://rubygems.org"
@@ -10,7 +18,7 @@ gem 'jemoji'
 gem 'webrick'
 
 # gem "rails"
-
+'''
 
 '''
 frozen_string_literal: true
