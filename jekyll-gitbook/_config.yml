@@ -52,7 +52,8 @@ permalink:                /:categories/:year-:month-:day-:title:output_ext
 
 exclude:
   - _drafts
-
+include:
+  - _pages  # Explicitly include _pages folder
 collections:
   pages:
     output: true
