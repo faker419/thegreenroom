@@ -1,12 +1,24 @@
 # frozen_string_literal: true
 
+#source "https://rubygems.org"
+
+#git_source(:github) { |repo_name| "https://github.com/#{repo_name}" }
+#gem "jekyll"
+#gem 'jekyll-feed'
+#gem 'jekyll-readme-index'
+#gem 'jemoji'
+#gem 'webrick'
+
+# gem "rails"
+
+# frozen_string_literal: true
+
 source "https://rubygems.org"
 
 git_source(:github) { |repo_name| "https://github.com/#{repo_name}" }
-gem "jekyll"
-gem 'jekyll-feed'
-gem 'jekyll-readme-index'
-gem 'jemoji'
-gem 'webrick'
 
-# gem "rails"
+# GitHub Pages official gem (includes Jekyll + all dependencies)
+gem "github-pages", group: :jekyll_plugins
+
+# Optional: Keep these if you need them for local development
+gem "webrick"  # Required for Ruby 3.0+ on local builds

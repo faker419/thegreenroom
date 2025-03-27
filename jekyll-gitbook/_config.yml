@@ -1,17 +1,21 @@
 # Configurations
-title:            Jekyll Gitbook
-longtitle:        Jekyll Gitbook
-author:           HE Tao
-email:            sighingnow@gmail.com
+title:            The Green Room
+longtitle:        The Green Room
+author:           Issa Fares
+email:            Faresissa22@gmail.com
 description: >
-  Build Jekyll site with the GitBook style.
+  Vertical Farm Project.
 
 version:          1.0
 gitbook_version:  3.2.3
 
-url:              'https://sighingnow.github.io'
+url:              'https://faker419.github.io'
 baseurl:          '/thegreenroom/jekyll-gitbook'
 rss:              RSS
+
+toc:
+  enabled: true
+
 
 # bootstrap: use the remote theme for the site itself
 remote_theme: sighingnow/jekyll-gitbook
