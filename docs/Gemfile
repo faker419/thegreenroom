@@ -1,3 +1,2 @@
 source "https://rubygems.org"
-gem "github-pages", group: :jekyll_plugins
-gem "webrick", group: :development
+gem "github-pages", group: :jekyll_plugins  # Let GitHub handle all deps
